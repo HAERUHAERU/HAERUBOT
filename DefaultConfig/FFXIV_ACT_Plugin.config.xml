@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+	<SettingsSerializer>
+		<CheckBox Name="chkDisableDamageShield" Value="False" />
+		<ComboBox Name="cboLanguage" Value="한국어" />
+		<ComboBox Name="cboParseFilter" Value="Alliance" />
+		<CheckBox Name="chkCombinePets" Value="true" />
+		<CheckBox Name="chkScanHP" Value="False" />
+		<CheckBox Name="chkLogAllNetwork" Value="False" />
+		<CheckBox Name="chkDisableCombatLog" Value="False" />
+		<TextBox Name="txtLogFileDirectory" Value="C:\Advanced Combat Tracker\FFXIVLogs" />
+		<CheckBox Name="chkSimulateDoTCrits" Value="True" />
+		<CheckBox Name="chkShowRealDoTs" Value="False" />
+		<CheckBox Name="chkParsePotency" Value="False" />
+		<ComboBox Name="cboNetwork" Value="All (Default)" />
+		<ComboBox Name="cboParseMode" Value="Network" />
+		<CheckBox Name="chkDisableSocketFilter" Value="False" />
+		<CheckBox Name="chkEnableOverlay" Value="True" />
+		<CheckBox Name="chkAlternateOverlayHide" Value="False" />
+		<CheckBox Name="chkTargetHide" Value="True" />
+		<CheckBox Name="chkTargetHideHP" Value="False" />
+		<CheckBox Name="chkTargetHideName" Value="False" />
+		<CheckBox Name="chkTargetClickThrough" Value="False" />
+		<TextBox Name="txtTargetFont" Value="Microsoft Sans Serif, 8.25pt" />
+		<TextBox Name="txtTargetColors" Value="0:25:Red|25:75:Orange|75:100:Green|" />
+		<NumericUpDown Name="nudTargetOpacity" Value="100" />
+		<CheckBox Name="chkTargetSolidBackground" Value="False" />
+		<CheckBox Name="chkFocusTargetHide" Value="True" />
+		<CheckBox Name="chkFocusTargetHideHP" Value="False" />
+		<CheckBox Name="chkFocusTargetHideName" Value="False" />
+		<TextBox Name="txtFocusTargetFont" Value="Microsoft Sans Serif, 8.25pt" />
+		<TextBox Name="txtFocusTargetColors" Value="0:25:Red|25:75:Orange|75:100:Green|" />
+		<CheckBox Name="chkFocusTargetClickThrough" Value="False" />
+		<NumericUpDown Name="nudFocusTargetOpacity" Value="100" />
+		<CheckBox Name="chkFocusTargetSolidBackground" Value="False" />
+		<TextBox Name="txtHoverTargetFont" Value="Microsoft Sans Serif, 8.25pt" />
+		<CheckBox Name="chkHoverTargetHide" Value="True" />
+		<CheckBox Name="chkHoverTargetHideHP" Value="False" />
+		<CheckBox Name="chkHoverTargetHideName" Value="False" />
+		<CheckBox Name="chkHoverTargetClickThrough" Value="False" />
+		<TextBox Name="txtHoverTargetColors" Value="0:25:Red|25:75:Orange|75:100:Green|" />
+		<NumericUpDown Name="nudHoverTargetOpacity" Value="100" />
+		<CheckBox Name="chkHoverTargetSolidBackground" Value="False" />
+		<TextBox Name="txtTargetOfTargetFont" Value="Microsoft Sans Serif, 8.25pt" />
+		<CheckBox Name="chkTargetOfTargetHideOverlay" Value="True" />
+		<CheckBox Name="TargetOfTargetHideHP" Value="False" />
+		<CheckBox Name="TargetOfTargetHideName" Value="False" />
+		<CheckBox Name="TargetOfTargetClickthrough" Value="False" />
+		<TextBox Name="txtTargetOfTargetColors" Value="0:25:Red|25:75:Orange|75:100:Green|" />
+		<NumericUpDown Name="nudTargetOfTargetOpacity" Value="100" />
+		<CheckBox Name="chkTargetOfTargetSolidBackground" Value="False" />
+		<TextBox Name="txtTargetLocationX" Value="1280" />
+		<TextBox Name="txtTargetLocationY" Value="100" />
+		<TextBox Name="txtTargetLocationW" Value="250" />
+		<TextBox Name="txtTargetLocationH" Value="45" />
+		<TextBox Name="txtFocusTargetLocationX" Value="1280" />
+		<TextBox Name="txtFocusTargetLocationY" Value="200" />
+		<TextBox Name="txtFocusTargetLocationW" Value="250" />
+		<TextBox Name="txtFocusTargetLocationH" Value="45" />
+		<TextBox Name="txtHoverTargetLocationX" Value="1280" />
+		<TextBox Name="txtHoverTargetLocationY" Value="300" />
+		<TextBox Name="txtHoverTargetLocationW" Value="250" />
+		<TextBox Name="txtHoverTargetLocationH" Value="45" />
+		<TextBox Name="TargetOfTargetLocationX" Value="1280" />
+		<TextBox Name="TargetOfTargetLocationY" Value="350" />
+		<TextBox Name="TargetOfTargetLocationW" Value="250" />
+		<TextBox Name="TargetOfTargetLocationH" Value="45" />
+	</SettingsSerializer>
+</Config>

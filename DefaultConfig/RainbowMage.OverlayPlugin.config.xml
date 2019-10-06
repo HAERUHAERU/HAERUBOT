@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<PluginConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsVisible>true</IsVisible>
+  <IsClickThru>false</IsClickThru>
+  <OverlayPosition>
+    <X>20</X>
+    <Y>20</Y>
+  </OverlayPosition>
+  <OverlaySize>
+    <Width>300</Width>
+    <Height>300</Height>
+  </OverlaySize>
+  <SortKey>encdps</SortKey>
+  <SortType>NumericDescending</SortType>
+  <FollowLatestLog>false</FollowLatestLog>
+  <HideOverlaysWhenNotActive>false</HideOverlaysWhenNotActive>
+  <Version>0.3.4.0</Version>
+  <Overlays>
+  </Overlays>
+</PluginConfig>

@@ -1,0 +1,22 @@
+{
+  "DXInstalledPath": "",
+  "DXInstalledType": -1,
+  "OverlayTab": 0,
+  "OverlayProcType": "x64_QT5.12.2",
+  "Port": 10501,
+  "UPnPPort": 10501,
+  "Hostname": "Loopback (127.0.0.1)",
+  "RandomURL": false,
+  "UseUPnP": false,
+  "UseDiscovery": false,
+  "UseSSL": false,
+  "AutoRun": true,
+  "AutoOverlay": true,
+  "BeforeLogLineRead": true,
+  "OnLogLineRead": false,
+  "MiniParse": true,
+  "ChatFilter": false,
+  "SkinOnAct": true,
+  "UpdateAddress": false,
+  "SkinURLList": []
+}
