@@ -8,7 +8,7 @@
 		<CheckBox Name="chkScanHP" Value="False" />
 		<CheckBox Name="chkLogAllNetwork" Value="False" />
 		<CheckBox Name="chkDisableCombatLog" Value="False" />
-		<TextBox Name="txtLogFileDirectory" Value="C:\Advanced Combat Tracker\FFXIVLogs" />
+		<TextBox Name="txtLogFileDirectory" Value="" />
 		<CheckBox Name="chkSimulateDoTCrits" Value="True" />
 		<CheckBox Name="chkShowRealDoTs" Value="False" />
 		<CheckBox Name="chkParsePotency" Value="False" />
