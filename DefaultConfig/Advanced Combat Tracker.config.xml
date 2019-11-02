@@ -177,19 +177,19 @@
         <Form Name="FormSpellTimersPanel" X="0" Y="0" W="219" H="407" WindowState="Normal" />
         <Form Name="FormSpellTimersPanel2" X="0" Y="0" W="219" H="406" WindowState="Normal" />
         <Form Name="FormEncounterLogs" X="0" Y="0" W="899" H="432" WindowState="Normal" />
-        <Form Name="FormPerformanceWizard" X="78" Y="78" W="528" H="402" WindowState="Normal" />
-        <Form Name="FormXmlSettingsIO" X="104" Y="104" W="812" H="444" WindowState="Normal" />
+        <Form Name="FormPerformanceWizard" X="104" Y="104" W="528" H="402" WindowState="Normal" />
+        <Form Name="FormXmlSettingsIO" X="130" Y="130" W="812" H="444" WindowState="Normal" />
         <Form Name="FormTimeLine" X="0" Y="0" W="1148" H="621" WindowState="Normal" />
         <Form Name="FormEncounterVcr" X="0" Y="0" W="1122" H="652" WindowState="Normal" />
-        <Form Name="FormSqlQuery" X="130" Y="130" W="827" H="541" WindowState="Normal" />
-        <Form Name="FormByCombatantLookup" X="156" Y="156" W="991" H="624" WindowState="Normal" />
-        <Form Name="FormStartupWizard" X="182" Y="182" W="539" H="401" WindowState="Normal" />
-        <Form Name="FormAlliesEdit" X="208" Y="208" W="267" H="414" WindowState="Normal" />
+        <Form Name="FormSqlQuery" X="156" Y="156" W="827" H="541" WindowState="Normal" />
+        <Form Name="FormByCombatantLookup" X="182" Y="182" W="991" H="624" WindowState="Normal" />
+        <Form Name="FormStartupWizard" X="208" Y="208" W="539" H="401" WindowState="Normal" />
+        <Form Name="FormAlliesEdit" X="234" Y="234" W="267" H="414" WindowState="Normal" />
         <Form Name="FormAvoidanceReport" X="0" Y="0" W="761" H="479" WindowState="Normal" />
-        <Form Name="FormExportFormat" X="234" Y="234" W="777" H="565" WindowState="Normal" />
+        <Form Name="FormExportFormat" X="260" Y="260" W="777" H="565" WindowState="Normal" />
         <Form Name="FormImportProgress" X="200" Y="200" W="692" H="236" WindowState="Normal" />
         <Form Name="FormScratchRange" X="0" Y="0" W="765" H="284" WindowState="Normal" />
-        <Form Name="FormCustomTriggerBenchmark" X="260" Y="260" W="1397" H="597" WindowState="Normal" />
+        <Form Name="FormCustomTriggerBenchmark" X="286" Y="286" W="1397" H="597" WindowState="Normal" />
         <TrackBar Name="tbarTtsVol" Value="100" />
         <TrackBar Name="tbarWavVol" Value="100" />
         <Panel Name="pGraphing" W="846" H="264" />
@@ -393,12 +393,12 @@
         <CheckBox Name="cbLcdEnabled" Value="False" />
         <String Name="logFilePath" Value="" />
         <Int64 Name="procMask" Value="0" />
-        <Boolean Name="suppressStartupWizardQuestion" Value="False" />
+        <Boolean Name="suppressStartupWizardQuestion" Value="True" />
         <Boolean Name="suppressCtBenchPopup" Value="False" />
-        <DirectoryInfo Name="folderActfiles" Value="" />
-        <DirectoryInfo Name="folderExports" Value="" />
-        <DirectoryInfo Name="folderLogs" Value="" />
-        <DirectoryInfo Name="folderMedia" Value="" />
+        <DirectoryInfo Name="folderActfiles" Value="C:\" />
+        <DirectoryInfo Name="folderExports" Value="C:\" />
+        <DirectoryInfo Name="folderLogs" Value="C:\" />
+        <DirectoryInfo Name="folderMedia" Value="C:\WINDOWS\Media" />
     </SettingsSerializer>
     <SParseList />
     <TextFormats />
