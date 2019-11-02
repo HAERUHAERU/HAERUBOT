@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Config>
     <SettingsSerializer>
         <CheckBox Name="cbAutoLoadLogs" Value="True" />
@@ -167,7 +167,7 @@
         <RadioButton Name="rbSParseFull" Value="False" />
         <RadioButton Name="rbSParseNone" Value="True" />
         <TextBox Name="tbFeedbackEmail" Value="&lt;Optional return email address&gt;" />
-        <Form Name="FormActMain" X="196" Y="505" W="1087" H="706" WindowState="Normal" />
+        <Form Name="FormActMain" X="-1251" Y="339" W="1087" H="706" WindowState="Normal" />
         <Form Name="FormMiniParse" X="0" Y="0" W="160" H="255" WindowState="Normal" />
         <Form Name="FormUpdater" X="0" Y="0" W="620" H="466" WindowState="Normal" />
         <Form Name="FormCombatantSearch" X="0" Y="0" W="585" H="303" WindowState="Normal" />
@@ -177,19 +177,19 @@
         <Form Name="FormSpellTimersPanel" X="0" Y="0" W="219" H="407" WindowState="Normal" />
         <Form Name="FormSpellTimersPanel2" X="0" Y="0" W="219" H="406" WindowState="Normal" />
         <Form Name="FormEncounterLogs" X="0" Y="0" W="899" H="432" WindowState="Normal" />
-        <Form Name="FormPerformanceWizard" X="208" Y="208" W="528" H="402" WindowState="Normal" />
-        <Form Name="FormXmlSettingsIO" X="234" Y="234" W="812" H="444" WindowState="Normal" />
+        <Form Name="FormPerformanceWizard" X="78" Y="78" W="528" H="402" WindowState="Normal" />
+        <Form Name="FormXmlSettingsIO" X="104" Y="104" W="812" H="444" WindowState="Normal" />
         <Form Name="FormTimeLine" X="0" Y="0" W="1148" H="621" WindowState="Normal" />
         <Form Name="FormEncounterVcr" X="0" Y="0" W="1122" H="652" WindowState="Normal" />
-        <Form Name="FormSqlQuery" X="260" Y="260" W="827" H="541" WindowState="Normal" />
-        <Form Name="FormByCombatantLookup" X="286" Y="286" W="991" H="624" WindowState="Normal" />
-        <Form Name="FormStartupWizard" X="312" Y="312" W="539" H="401" WindowState="Normal" />
-        <Form Name="FormAlliesEdit" X="338" Y="338" W="267" H="414" WindowState="Normal" />
+        <Form Name="FormSqlQuery" X="130" Y="130" W="827" H="541" WindowState="Normal" />
+        <Form Name="FormByCombatantLookup" X="156" Y="156" W="991" H="624" WindowState="Normal" />
+        <Form Name="FormStartupWizard" X="182" Y="182" W="539" H="401" WindowState="Normal" />
+        <Form Name="FormAlliesEdit" X="208" Y="208" W="267" H="414" WindowState="Normal" />
         <Form Name="FormAvoidanceReport" X="0" Y="0" W="761" H="479" WindowState="Normal" />
-        <Form Name="FormExportFormat" X="26" Y="26" W="777" H="565" WindowState="Normal" />
+        <Form Name="FormExportFormat" X="234" Y="234" W="777" H="565" WindowState="Normal" />
         <Form Name="FormImportProgress" X="200" Y="200" W="692" H="236" WindowState="Normal" />
         <Form Name="FormScratchRange" X="0" Y="0" W="765" H="284" WindowState="Normal" />
-        <Form Name="FormCustomTriggerBenchmark" X="52" Y="52" W="1397" H="597" WindowState="Normal" />
+        <Form Name="FormCustomTriggerBenchmark" X="260" Y="260" W="1397" H="597" WindowState="Normal" />
         <TrackBar Name="tbarTtsVol" Value="100" />
         <TrackBar Name="tbarWavVol" Value="100" />
         <Panel Name="pGraphing" W="846" H="264" />
@@ -398,7 +398,7 @@
         <DirectoryInfo Name="folderActfiles" Value="" />
         <DirectoryInfo Name="folderExports" Value="" />
         <DirectoryInfo Name="folderLogs" Value="" />
-        <DirectoryInfo Name="folderMedia" Value="C:\WINDOWS\Media" />
+        <DirectoryInfo Name="folderMedia" Value="" />
     </SettingsSerializer>
     <SParseList />
     <TextFormats />
@@ -409,7 +409,6 @@
     <RenameFix />
     <AbilityRedirectFix />
     <OdbcHacks />
-    <ActPlugins>
-    </ActPlugins>
     <XmlSubs />
+    <ActPlugins />
 </Config>
