@@ -395,9 +395,9 @@
         <Int64 Name="procMask" Value="0" />
         <Boolean Name="suppressStartupWizardQuestion" Value="False" />
         <Boolean Name="suppressCtBenchPopup" Value="False" />
-        <DirectoryInfo Name="folderActfiles" Value="C:\" />
-        <DirectoryInfo Name="folderExports" Value="C:\" />
-        <DirectoryInfo Name="folderLogs" Value="C:\Advanced Combat Tracker\FFXIVLogs" />
+        <DirectoryInfo Name="folderActfiles" Value="" />
+        <DirectoryInfo Name="folderExports" Value="" />
+        <DirectoryInfo Name="folderLogs" Value="" />
         <DirectoryInfo Name="folderMedia" Value="C:\WINDOWS\Media" />
     </SettingsSerializer>
     <SParseList />
