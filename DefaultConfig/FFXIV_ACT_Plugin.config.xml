@@ -4,7 +4,7 @@
 		<CheckBox Name="chkDisableDamageShield" Value="False" />
 		<ComboBox Name="cboLanguage" Value="한국어" />
 		<ComboBox Name="cboParseFilter" Value="Alliance" />
-		<CheckBox Name="chkCombinePets" Value="true" />
+		<CheckBox Name="chkCombinePets" Value="False" />
 		<CheckBox Name="chkScanHP" Value="False" />
 		<CheckBox Name="chkLogAllNetwork" Value="False" />
 		<CheckBox Name="chkDisableCombatLog" Value="False" />
