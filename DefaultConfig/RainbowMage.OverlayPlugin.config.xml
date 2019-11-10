@@ -13,7 +13,7 @@
   <SortKey>encdps</SortKey>
   <SortType>NumericDescending</SortType>
   <FollowLatestLog>false</FollowLatestLog>
-  <HideOverlaysWhenNotActive>false</HideOverlaysWhenNotActive>
+  <HideOverlaysWhenNotActive>true</HideOverlaysWhenNotActive>
   <Version>0.3.4.0</Version>
   <Overlays>
   </Overlays>
