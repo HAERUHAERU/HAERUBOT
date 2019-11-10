@@ -7,8 +7,8 @@
     <Y>20</Y>
   </OverlayPosition>
   <OverlaySize>
-    <Width>300</Width>
-    <Height>300</Height>
+    <Width>500</Width>
+    <Height>350</Height>
   </OverlaySize>
   <SortKey>encdps</SortKey>
   <SortType>NumericDescending</SortType>
