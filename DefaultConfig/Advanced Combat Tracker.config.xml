@@ -29,7 +29,8 @@
         <ComboBox Name="ddlTLGrouping" Value="" />
         <NumericUpDown Name="nudTLSampleSize" Value="10" />
         <CheckBox Name="cbParseCt" Value="False" />
-        <CheckBox Name="cbAutoCheck" Value="True" />
+        <CheckBox Name="cbNotificationBlink" Value="False" />
+        <CheckBox Name="cbAutoCheck" Value="False" />
         <CheckBox Name="cbbMiniParse" Value="False" />
         <CheckBox Name="cbbShowTimers" Value="False" />
         <CheckBox Name="cbExportLogText" Value="True" />
@@ -167,7 +168,7 @@
         <RadioButton Name="rbSParseFull" Value="False" />
         <RadioButton Name="rbSParseNone" Value="True" />
         <TextBox Name="tbFeedbackEmail" Value="&lt;Optional return email address&gt;" />
-        <Form Name="FormActMain" X="-1251" Y="339" W="1087" H="706" WindowState="Normal" />
+        <Form Name="FormActMain" X="666" Y="434" W="1217" H="949" WindowState="Normal" />
         <Form Name="FormMiniParse" X="0" Y="0" W="160" H="255" WindowState="Normal" />
         <Form Name="FormUpdater" X="0" Y="0" W="620" H="466" WindowState="Normal" />
         <Form Name="FormCombatantSearch" X="0" Y="0" W="585" H="303" WindowState="Normal" />
@@ -177,23 +178,23 @@
         <Form Name="FormSpellTimersPanel" X="0" Y="0" W="219" H="407" WindowState="Normal" />
         <Form Name="FormSpellTimersPanel2" X="0" Y="0" W="219" H="406" WindowState="Normal" />
         <Form Name="FormEncounterLogs" X="0" Y="0" W="899" H="432" WindowState="Normal" />
-        <Form Name="FormPerformanceWizard" X="104" Y="104" W="528" H="402" WindowState="Normal" />
-        <Form Name="FormXmlSettingsIO" X="130" Y="130" W="812" H="444" WindowState="Normal" />
+        <Form Name="FormPerformanceWizard" X="130" Y="130" W="528" H="402" WindowState="Normal" />
+        <Form Name="FormXmlSettingsIO" X="156" Y="156" W="812" H="444" WindowState="Normal" />
         <Form Name="FormTimeLine" X="0" Y="0" W="1148" H="621" WindowState="Normal" />
         <Form Name="FormEncounterVcr" X="0" Y="0" W="1122" H="652" WindowState="Normal" />
-        <Form Name="FormSqlQuery" X="156" Y="156" W="827" H="541" WindowState="Normal" />
-        <Form Name="FormByCombatantLookup" X="182" Y="182" W="991" H="624" WindowState="Normal" />
-        <Form Name="FormStartupWizard" X="208" Y="208" W="539" H="401" WindowState="Normal" />
-        <Form Name="FormAlliesEdit" X="234" Y="234" W="267" H="414" WindowState="Normal" />
+        <Form Name="FormSqlQuery" X="182" Y="182" W="827" H="541" WindowState="Normal" />
+        <Form Name="FormByCombatantLookup" X="208" Y="208" W="991" H="624" WindowState="Normal" />
+        <Form Name="FormStartupWizard" X="234" Y="234" W="539" H="401" WindowState="Normal" />
+        <Form Name="FormAlliesEdit" X="260" Y="260" W="267" H="414" WindowState="Normal" />
         <Form Name="FormAvoidanceReport" X="0" Y="0" W="761" H="479" WindowState="Normal" />
-        <Form Name="FormExportFormat" X="260" Y="260" W="777" H="565" WindowState="Normal" />
+        <Form Name="FormExportFormat" X="286" Y="286" W="777" H="565" WindowState="Normal" />
         <Form Name="FormImportProgress" X="200" Y="200" W="692" H="236" WindowState="Normal" />
         <Form Name="FormScratchRange" X="0" Y="0" W="765" H="284" WindowState="Normal" />
-        <Form Name="FormCustomTriggerBenchmark" X="286" Y="286" W="1397" H="597" WindowState="Normal" />
+        <Form Name="FormCustomTriggerBenchmark" X="312" Y="312" W="1397" H="597" WindowState="Normal" />
         <TrackBar Name="tbarTtsVol" Value="100" />
         <TrackBar Name="tbarWavVol" Value="100" />
-        <Panel Name="pGraphing" W="846" H="264" />
-        <Panel Name="pLeftView" W="215" H="637" />
+        <Panel Name="pGraphing" W="976" H="264" />
+        <Panel Name="pLeftView" W="215" H="879" />
         <CheckedListBox Name="clbZD">
             <Item Checked="False">EncId</Item>
             <Item Checked="True">Title</Item>
@@ -242,6 +243,15 @@
             <Item Checked="True">CritTypes</Item>
             <Item Checked="False">Threat +/-</Item>
             <Item Checked="False">ThreatDelta</Item>
+            <Item Checked="True">Job</Item>
+            <Item Checked="False">ParryPct</Item>
+            <Item Checked="False">BlockPct</Item>
+            <Item Checked="False">IncToHit</Item>
+            <Item Checked="True">OverHealPct</Item>
+            <Item Checked="True">DirectHitPct</Item>
+            <Item Checked="False">DirectHitCount</Item>
+            <Item Checked="False">CritDirectHitCount</Item>
+            <Item Checked="True">CritDirectHitPct</Item>
         </CheckedListBox>
         <CheckedListBox Name="clbCD">
             <Item Checked="False">EncId</Item>
@@ -268,6 +278,13 @@
             <Item Checked="False">AvgDelay</Item>
             <Item Checked="False">Crit%</Item>
             <Item Checked="True">CritTypes</Item>
+            <Item Checked="False">ParryPct</Item>
+            <Item Checked="False">BlockPct</Item>
+            <Item Checked="False">OverHeal</Item>
+            <Item Checked="True">DirectHitPct</Item>
+            <Item Checked="False">DirectHitCount</Item>
+            <Item Checked="False">CritDirectHitCount</Item>
+            <Item Checked="True">CritDirectHitPct</Item>
         </CheckedListBox>
         <Button Name="btnMDSort" Text="Damage" Font="굴림" Style="Regular" Size="9" />
         <Button Name="btnMDSort2" Text="Duration" Font="굴림" Style="Regular" Size="9" />
@@ -298,6 +315,16 @@
             <Item Checked="False">AvgDelay</Item>
             <Item Checked="True">Crit%</Item>
             <Item Checked="True">CritTypes</Item>
+            <Item Checked="False">Parry</Item>
+            <Item Checked="False">ParryPct</Item>
+            <Item Checked="False">Block</Item>
+            <Item Checked="False">BlockPct</Item>
+            <Item Checked="False">DmgReduced</Item>
+            <Item Checked="False">OverHeal</Item>
+            <Item Checked="True">DirectHitPct</Item>
+            <Item Checked="False">DirectHitCount</Item>
+            <Item Checked="False">CritDirectHitCount</Item>
+            <Item Checked="True">CritDirectHitPct</Item>
         </CheckedListBox>
         <Button Name="btnATSort" Text="Time" Font="굴림" Style="Regular" Size="9" />
         <Button Name="btnATSort2" Text="Time" Font="굴림" Style="Regular" Size="9" />
@@ -314,6 +341,16 @@
             <Item Checked="False">Critical</Item>
             <Item Checked="True">CriticalStr</Item>
             <Item Checked="True">Special</Item>
+            <Item Checked="False">DoTAmtLowByte</Item>
+            <Item Checked="False">DoTCritLowByte</Item>
+            <Item Checked="True">DmgAdjust</Item>
+            <Item Checked="True">BuffDuration</Item>
+            <Item Checked="False">DmgReduced</Item>
+            <Item Checked="False">OverHeal</Item>
+            <Item Checked="True">DirectHit</Item>
+            <Item Checked="False">BuffByte1</Item>
+            <Item Checked="False">BuffByte2</Item>
+            <Item Checked="False">BuffByte3</Item>
         </CheckedListBox>
         <CheckedListBox Name="clbShareBanned" />
         <CheckedListBox Name="clbShareTrusted" />
@@ -377,6 +414,12 @@
             <Item Checked="True">Cure/Dispel (Inc)</Item>
             <Item Checked="True">Threat (Inc)</Item>
             <Item Checked="True">All Incoming (Ref)</Item>
+            <Item Checked="True">Simulated DoTs (Out)</Item>
+            <Item Checked="True">Simulated HoTs (Out)</Item>
+            <Item Checked="True">Buff/Debuff (Out)</Item>
+            <Item Checked="True">Simulated DoTs (Inc)</Item>
+            <Item Checked="True">Simulated HoTs (Inc)</Item>
+            <Item Checked="True">Buff/Debuff (Inc)</Item>
         </CheckedListBox>
         <ColorControl Name="ccSpellTimerBackColor" Color="-986896" />
         <ColorControl Name="ccSpellTimerExpireColor" Color="-29696" />
