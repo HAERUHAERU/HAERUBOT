@@ -1,20 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Config>
 	<SettingsSerializer>
 		<CheckBox Name="chkDisableDamageShield" Value="False" />
-		<ComboBox Name="cboLanguage" Value="한국어" />
+		<ComboBox Name="cboLanguage" Value="English" />
 		<ComboBox Name="cboParseFilter" Value="Alliance" />
 		<CheckBox Name="chkDisableCombinePets" Value="True" />
-		<CheckBox Name="chkScanHP" Value="False" />
+		<CheckBox Name="chkScanHP" Value="True" />
 		<CheckBox Name="chkLogAllNetwork" Value="False" />
 		<CheckBox Name="chkDisableCombatLog" Value="False" />
 		<TextBox Name="txtLogFileDirectory" Value="" />
-		<CheckBox Name="chkSimulateDoTCrits" Value="True" />
+		<CheckBox Name="chkSimulateDoTCrits" Value="False" />
 		<CheckBox Name="chkShowRealDoTs" Value="False" />
 		<CheckBox Name="chkParsePotency" Value="False" />
 		<ComboBox Name="cboNetwork" Value="All (Default)" />
 		<ComboBox Name="cboParseMode" Value="Network" />
 		<CheckBox Name="chkDisableSocketFilter" Value="False" />
+		<CheckBox Name="chkShowDebug" Value="False" />
 		<CheckBox Name="chkEnableOverlay" Value="True" />
 		<CheckBox Name="chkAlternateOverlayHide" Value="False" />
 		<CheckBox Name="chkTargetHide" Value="True" />
