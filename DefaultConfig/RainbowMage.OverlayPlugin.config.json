@@ -18,7 +18,7 @@
             "EnmityIntervalMs": 100,
             "SortKey": "encdps",
             "SortDesc": true,
-            "UpdateDpsDuringImport": false
+            "UpdateDpsDuringImport": true
         }
     }
 }
