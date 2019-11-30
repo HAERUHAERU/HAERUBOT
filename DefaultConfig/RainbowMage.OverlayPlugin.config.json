@@ -1,0 +1,24 @@
+{
+    "Overlays": [
+    ],
+    "FollowLatestLog": false,
+    "HideOverlaysWhenNotActive": true,
+    "HideOverlayDuringCutscene": true,
+    "ErrorReports": false,
+    "UpdateCheck": false,
+    "WSServerIP": "127.0.0.1",
+    "WSServerPort": 10501,
+    "WSServerSSL": false,
+    "WSServerRunning": false,
+    "Version": null,
+    "LastUpdateCheck": "",
+    "EventSourceConfigs": {
+        "MiniParse": {
+            "UpdateInterval": 1,
+            "EnmityIntervalMs": 100,
+            "SortKey": "encdps",
+            "SortDesc": true,
+            "UpdateDpsDuringImport": false
+        }
+    }
+}
