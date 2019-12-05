@@ -5,7 +5,7 @@
     "HideOverlaysWhenNotActive": true,
     "HideOverlayDuringCutscene": true,
     "ErrorReports": false,
-    "UpdateCheck": false,
+    "UpdateCheck": true,
     "WSServerIP": "127.0.0.1",
     "WSServerPort": 10501,
     "WSServerSSL": false,
