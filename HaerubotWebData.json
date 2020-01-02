@@ -1,0 +1,319 @@
+﻿{
+  "general": {
+    "title": {
+      "text": "HAERUBOT : FFXIV-KR ACT HELPER",
+      "color": "#000a36"
+    },
+    "notice": {
+      "text": "[20/01/01] 1.3.0.1 패치노트",
+      "color": "#0d3260",
+      "link": "https://ffxivhaeru.blog.me/221756650570"
+    },
+    "img": [
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_11.jpg",
+        "text": "몽크, 선물이다!",
+        "mean": "3초 서버틱을 지배하는 자\r\n몽크라면 필수라던데?",
+        "color": "#212121",
+        "link_text": "자세히 보기 >",
+        "link": "https://ffxivhaeru.blog.me/221756629026",
+        "author": ""
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_12.jpg",
+        "text": "새해 복 많이 받으세요",
+        "mean": "2020년도 해루봇과 함께 즐거운 파판을!\r\n항상 건강하고 좋은 일만 있기를!",
+        "color": "#ffffff",
+        "link_text": "",
+        "link": "",
+        "author": ""
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_10.png",
+        "text": "타임라인 이름 변경",
+        "mean": "5.01부터 임무 이름으로 인식합니다.\r\n타임라인 파일 이름을 변경해 주세요.",
+        "color": "#ffffff",
+        "link_text": "자세히 보기 >",
+        "link": "https://ffxivhaeru.blog.me/221751455241",
+        "author": ""
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_08.jpg",
+        "text": "한국 공식 지원!",
+        "mean": "이제 FFXIV Parsing 플러그인은\r\n공식적으로 한국 서버를 지원합니다.\r\n\r\n레니 님과 원작자 ravahn 님의\r\n값진 협업을 통해 한국어를 포함한\r\n최신 플러그인을 배포합니다.\r\n\r\n앞으로 시차로 인해 업데이트가\r\n다소 지연될 수 있습니다.\r\n\r\n협업을 진행해 주신\r\n레니 님께 감사드립니다!",
+        "color": "#ffffff",
+        "link_text": "",
+        "link": "",
+        "author": ""
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_07.png",
+        "text": "된다! Direct X 11",
+        "mean": "공식 플러그인은 Direct X를 모두 지원합니다.\r\nCactbot을 사용하려면 꼭 ON 해주세요.",
+        "color": "#ffffff",
+        "link_text": "",
+        "link": "",
+        "author": ""
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_09.png",
+        "text": "캡처가 안 돼요?",
+        "mean": "ACTWebSocket 사용자는 업데이트 필수!\r\nOverlayProc도 다시 다운로드합니다.",
+        "color": "#ffffff",
+        "link_text": "",
+        "link": "",
+        "author": ""
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_01.jpg",
+        "text": "모험의 시작",
+        "mean": "칠흑의 반역자는\r\nHAERUBOT과 함께",
+        "color": "#ffffff",
+        "link_text": "튜토리얼 보기 >",
+        "link": "https://ffxivhaeru.blog.me/221668461348",
+        "author": "illustration by 요정셀레네@모그리"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_04.jpg",
+        "text": "PC방 A to Z",
+        "mean": "내 집 같은 편안함\r\n백업&&복원 완벽 가이드",
+        "color": "#ffffff",
+        "link_text": "자세히 보기 >",
+        "link": "https://ffxivhaeru.blog.me/221725001847",
+        "author": "illustration by 박레난@모그리"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_03.jpg",
+        "text": "찾았다! 공략맛집",
+        "mean": "4인 던전과 토벌전은 물론\r\n레이드와 절 난이도까지",
+        "color": "#ffffff",
+        "link_text": "자세히 보기 >",
+        "link": "https://www.youtube.com/channel/UC_PtkLruOEuD11VgPypNBfw/videos",
+        "author": ""
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_06.jpg",
+        "text": "THANKS TO",
+        "mean": "HAERUBOT 베타 테스트에서\r\n쉼없이 활약한 숨은 일등 공신들!\r\n\r\n요정셀레네@모그리\r\n박레난@모그리",
+        "color": "#ffffff",
+        "link_text": "",
+        "link": "",
+        "author": ""
+      }
+    ]
+  },
+  "qa": {
+    "HAERUBOT": [
+      {
+        "title": "HAERUBOT(해루봇) 사용법이 궁금해요.",
+        "link": "https://ffxivhaeru.blog.me/221668461348"
+      },
+      {
+        "title": "가끔 다운로드 속도가 너무 느려요.",
+        "link": "https://ffxivhaeru.blog.me/221724090506"
+      },
+      {
+        "title": "가끔 서버 데이터와 동기화가 안 돼요.",
+        "link": "https://ffxivhaeru.blog.me/221724121598"
+      },
+      {
+        "title": "ACT를 설치하고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221724123766"
+      },
+      {
+        "title": "ACT를 삭제하고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221724124196"
+      },
+      {
+        "title": "ACT를 초기화하고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221724138554"
+      },
+      {
+        "title": "ACT를 업데이트하고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221724149745"
+      },
+      {
+        "title": "﻿PC방 등 다른 컴퓨터에서 기존에 사용하던 ACT를 실행하고 싶어요.\r\n백업 및 복원, 복원 설치 사용법",
+        "link": "https://ffxivhaeru.blog.me/221725001847"
+      },
+      {
+        "title": "HAERUBOT(해루봇)을 삭제하고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221725003147"
+      },
+      {
+        "title": "서버 데이터 동기화 시각이 1601-01-01 오전 9:00:00인데 정상인가요?",
+        "link": "https://ffxivhaeru.blog.me/221727148911"
+      },
+      {
+        "title": "바탕 화면에 있는 해루봇 바로 가기를 통해 ACT를 실행했는데 바탕 화면에 이상한 폴더나 파일이 생겨요.",
+        "link": "https://ffxivhaeru.blog.me/221734940597"
+      }
+    ],
+    "ACT 일반": [
+      {
+        "title": "ACT를 시작하기 전에 꼭 해야 하는 게임 설정 모음",
+        "link": "https://blog.naver.com/PostList.nhn?blogId=ffxivhaeru&from=postList&categoryNo=32"
+      },
+      {
+        "title": "ACT가 전투 중이라고 인식하는 시간을 변경하고 싶어요.\r\n집계가 '너무 자주 끊겨요' 또는 '전투가 끝나도 이어져요'",
+        "link": "https://ffxivhaeru.blog.me/221171273683"
+      },
+      {
+        "title": "ACT 알림음의 볼륨을 조절하고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221171290554"
+      },
+      {
+        "title": "특정 문구에 대한 알림을 받고 싶어요.\r\nACT CustomTriggers (커스텀 트리거) 사용법",
+        "link": "https://ffxivhaeru.blog.me/221171286982"
+      },
+      {
+        "title": "ACT Main 탭에 출력할 항목을 편집하고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221171286496"
+      },
+      {
+        "title": "ACT Main 탭 하단에 그래프가 안 떠요.\r\n(No combatants with compatible data to graph...)",
+        "link": "https://ffxivhaeru.blog.me/221171285749"
+      },
+      {
+        "title": "바탕화면이나 폴더에서 ACT 아이콘이 깨져 보여요.",
+        "link": "https://ffxivhaeru.blog.me/221171291068"
+      }
+    ],
+    "실행 오류": [
+      {
+        "title": "어느 날 갑자기 전투 로그 집계가 안 돼요.\r\n집계가 꼬이고 극심한 프레임 드랍이 발생해요.",
+        "link": "https://ffxivhaeru.blog.me/221171270902"
+      },
+      {
+        "title": "정상적으로 설치했는데 전투 로그 집계가 아예 안 돼요.",
+        "link": "https://ffxivhaeru.blog.me/221171270022"
+      },
+      {
+        "title": "어느 날 갑자기 ACT가 몬스터를 유저로 인식해요.\r\n오버레이에 몬스터들의 전투 정보가 떠요.",
+        "link": "https://ffxivhaeru.blog.me/221725049756"
+      },
+      {
+        "title": "인덱스가 배열 범위를 벗어났습니다.",
+        "link": "https://ffxivhaeru.blog.me/221171279116"
+      },
+      {
+        "title": "Error processing Network Data. ACT's error log will contain more debugging information.",
+        "link": "https://ffxivhaeru.blog.me/221171280840"
+      },
+      {
+        "title": "The currently open log file has not been modified for over a week...",
+        "link": "https://ffxivhaeru.blog.me/221171281378"
+      },
+      {
+        "title": "FFXIV Plugin Startup Failed. System.ComponentModel.Win32Exception (0x80004005): ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다.",
+        "link": "https://ffxivhaeru.blog.me/221276568656"
+      },
+      {
+        "title": "개체 참조가 개체의 인스턴스로 설정되지 않았습니다.\r\nACT's error log will contain more debugging information.",
+        "link": "https://ffxivhaeru.blog.me/221176618134"
+      }
+    ],
+    "플러그인": [
+      {
+        "title": "ACT가 수집하는 전투 로그의 범위를 변경하고 싶어요.\r\n내 캐릭터는 가만히 있는데 ACT가 전투를 인식해요.",
+        "link": "https://ffxivhaeru.blog.me/221171293285"
+      },
+      {
+        "title": "스페스페의 사용법을 알고 싶어요.",
+        "link": ""
+      },
+      {
+        "title": "타임라인의 사용법을 알고 싶어요.",
+        "link": ""
+      },
+      {
+        "title": "Cactbot의 사용법을 알고 싶어요.",
+        "link": "http://www.inven.co.kr/board/ff14/4338/5672"
+      },
+      {
+        "title": "Triggernometry의 사용법을 알고 싶어요.",
+        "link": "https://blog.naver.com/PostList.nhn?blogId=ffxivhaeru&from=postList&categoryNo=21"
+      }
+    ],
+    "오버레이": [
+      {
+        "title": "ACTWebSocket, OverlayPlugin의 초기 설정법을 알고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221725093894"
+      },
+      {
+        "title": "대상의 HP를 오버레이로 띄우거나 숨기는 방법을 알고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221171292698"
+      },
+      {
+        "title": "Alt+Tab, 최소화로 게임이 비활성화일 때는 오버레이를 숨기고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221176499288"
+      },
+      {
+        "title": "오버레이를 조작하는 단축키를 설정하고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221171296528"
+      },
+      {
+        "title": "어느날 갑자기 오버레이 화면이 깨져 보여요.",
+        "link": ""
+      },
+      {
+        "title": "웹소켓 오버레이가 저절로 꺼져요.",
+        "link": "https://ffxivhaeru.blog.me/221176511135"
+      },
+      {
+        "title": "웹소켓 오버레이의 배경이 까맣게 보여요.",
+        "link": "https://ffxivhaeru.blog.me/221171299650"
+      },
+      {
+        "title": "웹소켓 오버레이가 전체적으로 투명하고 쨍하게 보여요.",
+        "link": ""
+      },
+      {
+        "title": "집계는 잘 되는데 웹소켓 오버레이에서 데이터가 안 떠요.",
+        "link": ""
+      },
+      {
+        "title": "OBS Studio나 XSplit Broadcaster에 오버레이를 띄우고 싶어요.",
+        "link": ""
+      },
+      {
+        "title": "스마트폰이나 태블릿 등 모바일 기기로 오버레이를 보고 싶어요.",
+        "link": ""
+      },
+      {
+        "title": "MopiMopi(모피모피)에서 내 이름이 YOU로 보여요.",
+        "link": "https://ffxivhaeru.blog.me/221325149295"
+      }
+    ],
+    "로그": [
+      {
+        "title": "로그가 저장되는 폴더의 경로를 변경하고 싶어요.",
+        "link": ""
+      },
+      {
+        "title": "로그를 삭제하고 싶어요.",
+        "link": ""
+      },
+      {
+        "title": "지난 로그를 다시 보고 싶어요.",
+        "link": ""
+      },
+      {
+        "title": "로그를 검색하고 싶어요.",
+        "link": ""
+      },
+      {
+        "title": "로그를 분석하고 싶어요.",
+        "link": ""
+      },
+      {
+        "title": "데스 리포트(Death Repost) 사용법을 알고 싶어요.",
+        "link": ""
+      },
+      {
+        "title": "로그를 FFLogs 사이트에 게시하고 싶어요.",
+        "link": ""
+      }
+    ]
+  }
+}
