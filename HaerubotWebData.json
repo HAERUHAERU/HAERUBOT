@@ -5,9 +5,9 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[20/01/01] 1.3.0.1 패치노트",
+      "text": "[20/01/02] 1.3.0.2 패치노트",
       "color": "#0d3260",
-      "link": "https://ffxivhaeru.blog.me/221756650570"
+      "link": "https://ffxivhaeru.blog.me/221757745988"
     },
     "img": [
       {
@@ -22,7 +22,7 @@
       {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_12.jpg",
         "text": "새해 복 많이 받으세요",
-        "mean": "2020년도 해루봇과 함께 즐거운 파판을!\r\n항상 건강하고 좋은 일만 있기를!",
+        "mean": "2020년에도 해루봇과 함께 즐거운 파판을!\r\n항상 건강하고 좋은 일만 있기를!",
         "color": "#ffffff",
         "link_text": "",
         "link": "",
