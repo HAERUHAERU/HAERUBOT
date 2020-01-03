@@ -133,8 +133,12 @@
         "link": "https://ffxivhaeru.blog.me/221724149745"
       },
       {
-        "title": "﻿PC방 등 다른 컴퓨터에서 기존에 사용하던 ACT를 실행하고 싶어요.\r\n백업 및 복원, 복원 설치 사용법",
+        "title": "PC방 등 다른 컴퓨터에서 기존에 사용하던 ACT를 실행하고 싶어요.\r\n백업 및 복원, 복원 설치 사용법",
         "link": "https://ffxivhaeru.blog.me/221725001847"
+      },
+      {
+        "title": "HAERUBOT(해루봇)을 수동으로 업데이트하고 싶어요.",
+        "link": "https://ffxivhaeru.blog.me/221759001508"
       },
       {
         "title": "HAERUBOT(해루봇)을 삭제하고 싶어요.",
@@ -180,6 +184,14 @@
       }
     ],
     "실행 오류": [
+      {
+        "title": "업데이트를 확인하지 못했습니다:",
+        "link": "https://ffxivhaeru.blog.me/221759006468"
+      },
+      {
+        "title": "Github error while checking Cactbot version. Your current version is x.x.x.x.\r\nManually check for newer version now?",
+        "link": "https://ffxivhaeru.blog.me/221759010800"
+      },
       {
         "title": "어느 날 갑자기 전투 로그 집계가 안 돼요.\r\n집계가 꼬이고 극심한 프레임 드랍이 발생해요.",
         "link": "https://ffxivhaeru.blog.me/221171270902"
