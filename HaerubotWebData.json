@@ -103,7 +103,7 @@
     ]
   },
   "overlay":{
-      "[Overlay] 데이터 처리": [
+      "데이터 처리": [
       {
         "type": "overlay_op",
         "name": "Mini Parse",
@@ -193,7 +193,7 @@
         "key": "ember"
       }
     ],
-    "[Overlay] 기타": [
+    "기타": [
       {
         "type": "overlay",
         "name": "HAERUTIME",
@@ -217,7 +217,7 @@
         "key": "teruteru"
       }
     ],
-    "[Overlay] Cactbot 전용 UI": [
+    "Cactbot 전용 UI": [
       {
         "type": "overlay_op",
         "name": "[Cactbot] Test",
