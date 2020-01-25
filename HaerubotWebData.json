@@ -74,15 +74,6 @@
         "author": ""
       },
       {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_09.png",
-        "text": "캡처가 안 돼요?",
-        "mean": "ACTWebSocket 사용자는 업데이트 필수!\r\nOverlayProc도 다시 다운로드합니다.",
-        "color": "#ffffff",
-        "link_text": "",
-        "link": "",
-        "author": ""
-      },
-      {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_01.jpg",
         "text": "모험의 시작",
         "mean": "칠흑의 반역자는\r\nHAERUBOT과 함께",
