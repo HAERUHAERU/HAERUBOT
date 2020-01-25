@@ -20,6 +20,15 @@
         "author": "illustration by 박레난@모그리"
       },   
       {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_12.jpg",
+        "text": "새해 복 많이 받으세요",
+        "mean": "2020년에도 해루봇과 함께 즐거운 파판을!\r\n항상 건강하고 좋은 일만 있기를!",
+        "color": "#ffffff",
+        "link_text": "",
+        "link": "",
+        "author": ""
+      },
+      {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_13.png",
         "text": "깔끔하게 정리하기",
         "mean": "데이터 연동을 한 기존 ACT 유저들은\r\nOldPlugins 폴더를 삭제해 주세요.",
@@ -35,15 +44,6 @@
         "color": "#212121",
         "link_text": "자세히 보기 >",
         "link": "https://ffxivhaeru.blog.me/221756629026",
-        "author": ""
-      },
-      {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_12.jpg",
-        "text": "새해 복 많이 받으세요",
-        "mean": "2020년에도 해루봇과 함께 즐거운 파판을!\r\n항상 건강하고 좋은 일만 있기를!",
-        "color": "#ffffff",
-        "link_text": "",
-        "link": "",
         "author": ""
       },
       {
