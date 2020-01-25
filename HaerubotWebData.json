@@ -9,7 +9,16 @@
       "color": "#980000",
       "link": "http://www.inven.co.kr/board/ff14/4338/5739"
     },
-    "img": [      
+    "img": [   
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_04.jpg",
+        "text": "PC방 A to Z",
+        "mean": "내 집 같은 편안함\r\n백업&&복원 완벽 가이드",
+        "color": "#ffffff",
+        "link_text": "자세히 보기 >",
+        "link": "https://ffxivhaeru.blog.me/221725001847",
+        "author": "illustration by 박레난@모그리"
+      },   
       {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_13.png",
         "text": "깔끔하게 정리하기",
@@ -81,15 +90,6 @@
         "link_text": "튜토리얼 보기 >",
         "link": "https://ffxivhaeru.blog.me/221668461348",
         "author": "illustration by 요정셀레네@모그리"
-      },
-      {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_04.jpg",
-        "text": "PC방 A to Z",
-        "mean": "내 집 같은 편안함\r\n백업&&복원 완벽 가이드",
-        "color": "#ffffff",
-        "link_text": "자세히 보기 >",
-        "link": "https://ffxivhaeru.blog.me/221725001847",
-        "author": "illustration by 박레난@모그리"
       },
       {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_03.jpg",
