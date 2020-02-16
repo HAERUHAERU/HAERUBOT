@@ -94,7 +94,7 @@
     ]
   },
   "overlay":{
-      "데이터 처리": [
+      "DPS/HPS 데이터": [
       {
         "type": "overlay_op",
         "name": "Mini Parse",
@@ -182,6 +182,30 @@
         "parse": "MiniParse",
         "id": "009764c7-5959-407a-bab0-56053cac8e92",
         "key": "ember"
+      }
+    ],    
+    "전투 데이터":[        
+      {
+        "type": "overlay_op",
+        "name": "Aggro List",
+        "dev": "ngld/Github",
+        "mean": "어그로 리스트 관련 데이터 표시",
+        "info_link": "",
+        "url": "/Plugins/OverlayPlugin/resources/enmity/aggrolist.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "aggrolist"
+      },        
+      {
+        "type": "overlay_op",
+        "name": "Skill Display",
+        "dev": "Rawrington/Github",
+        "mean": "시전한 딜 사이클을 아이콘으로 표시",
+        "info_link": "",
+        "url": "https://rawrington.github.io/SkillDisplay/",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "SkillDisplay"
       }
     ],
     "기타": [
