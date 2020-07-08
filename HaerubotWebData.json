@@ -8,11 +8,20 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[20/06/24] 1.3.0.21 패치노트 / 최신 업데이트를 미루지 마십시오. 백신 사용 중이면 감시 예외 처리는 필수입니다.",
-      "color": "#0d3260",
-      "link": "https://ffxivhaeru.blog.me/222011177614"
+      "text": "[20/07/08] 해루봇 업데이트 관리자 프로그램을 수동으로 업데이트해야 합니다. 링크를 방문하세요.",
+      "color": "#980000",
+      "link": "https://ffxivhaeru.blog.me/222025221348"
     },
-    "img": [         
+    "img": [
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_15.jpg",
+        "text": "필수 업데이트 안내",
+        "mean": "업데이트 관리자 프로그램의 ★UPDATE★\r\n무조건 진행하셔야 합니다.",
+        "color": "#ffffff",
+        "link_text": "자세히 보기 >",
+        "link": "https://ffxivhaeru.blog.me/222025221348",
+        "author": ""
+      },   
       {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_04.jpg",
         "text": "PC방 A to Z",
