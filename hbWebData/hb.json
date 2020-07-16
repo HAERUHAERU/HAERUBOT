@@ -1,0 +1,71 @@
+{
+  "process": {
+    "Config": {
+      "Advanced Combat Tracker.config.xml": "xml",
+      "FFXIV_ACT_Plugin.config.xml": "xml",
+      "RainbowMage.OverlayPlugin.config.json": "json",
+      "ACTWebSocket.config.json": "json"
+    },
+    "folder_check": [
+      "FFXIVLogs",
+      "Plugins",
+      "ScreenShot"
+    ],
+    "folder_appdata": [
+      "Advanced Combat Tracker",
+      "ACT.FairyZeta",
+      "anoyetta"
+    ],
+    "folder_backup": {
+      "Advanced Combat Tracker": "appdata",
+      "anoyetta": "appdata",
+      "ACT.FairyZeta": "appdata"
+    },
+    "file_backup": {
+      "Plugins\\ACTWebSocket\\overlay_proc\\overlay_proc.json": "actPath",
+      "Plugins\\ACTWebSocket\\overlay_proc\\overlays.json": "actPath"
+    },
+    "folder_restore": {
+      "Advanced Combat Tracker": "appdata",
+      "anoyetta": "appdata",
+      "ACT.FairyZeta": "appdata",
+      "Plugins\\ACTWebSocket\\overlay_proc": "actPath"
+    }
+  },
+  "ui": {
+    "notice": {
+      "text": "[20/07/16] 공지사항",
+      "color": "#980000",
+      "link": ""
+    },
+    "img": [
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_04.jpg",
+        "text": "PC방 A to Z",
+        "mean": "내 집 같은 편안함\r\n백업&&복원 완벽 가이드",
+        "color": "#ffffff",
+        "link_text": "자세히 보기 >",
+        "link": "https://ffxivhaeru.blog.me/221725001847",
+        "author": "illustration by 박레난@모그리"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_08.jpg",
+        "text": "한국 공식 지원!",
+        "mean": "5.0부터 FFXIV Parsing 플러그인은 공식적으로 한국 서버를 지원합니다.\r\n앞으로 시차로 인해 업데이트가 다소 지연될 수 있습니다.",
+        "color": "#ffffff",
+        "link_text": "",
+        "link": "",
+        "author": ""
+      },
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_01.jpg",
+        "text": "모험의 시작",
+        "mean": "칠흑의 반역자는\r\nHAERUBOT과 함께",
+        "color": "#ffffff",
+        "link_text": "튜토리얼 보기 >",
+        "link": "https://ffxivhaeru.blog.me/221668461348",
+        "author": "illustration by 요정셀레네@초코보"
+      }
+    ]
+  }
+}

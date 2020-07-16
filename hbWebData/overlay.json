@@ -1,0 +1,232 @@
+{
+  "overlay": {
+    "DPS/HPS 데이터": [
+      {
+        "type": "overlay_op",
+        "name": "Mini Parse",
+        "dev": "ngld/Github",
+        "mean": "OverlayPlugin의 기본 스킨, 간략한 데이터만 표시",
+        "info_link": "",
+        "url": "/Plugins/OverlayPlugin/resources/miniparse.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "miniparse"
+      },
+      {
+        "type": "overlay_op",
+        "name": "HAERUSKIN",
+        "dev": "해루@모그리",
+        "mean": "빠른 설정 및 간편한 프리셋, OverlayPlugin 전용",
+        "info_link": "https://ffxivhaeru.blog.me/221725096160",
+        "url": "https://haeruhaeru.github.io/HAERUSKIN2/",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "HAERUSKIN"
+      },
+      {
+        "type": "overlay",
+        "name": "MopiMopi",
+        "dev": "해루@모그리",
+        "mean": "강력한 커스터마이징, 모바일 최적화, 듀얼 테이블",
+        "info_link": "https://ffxivhaeru.blog.me/221725095818",
+        "url": "https://haeruhaeru.github.io/mopimopi/",
+        "parse": "MiniParse",
+        "id": "ec853538-f5d3-4c52-b0dc-69e9ee6b57a9",
+        "key": "mopimopi"
+      },
+      {
+        "type": "overlay",
+        "name": "kagerou",
+        "dev": "히비야@초코보",
+        "mean": "모던한 디자인, 커스텀 CSS, 탭, 1인 모드",
+        "info_link": "https://github.com/hibiyasleep/kagerou",
+        "url": "https://hibiyasleep.github.io/kagerou/overlay/",
+        "parse": "MiniParse",
+        "id": "d7088f41-f4fa-495b-965c-ced94651f7ff",
+        "key": "kagerou"
+      },
+      {
+        "type": "overlay",
+        "name": "Fancy Detail Amethyst Edition",
+        "dev": "라그린네@모그리",
+        "mean": "다이나믹한 애니메이션, 선명한 가독성, 듀얼 테이블",
+        "info_link": "https://github.com/laiglinne-ff/FancyDetail",
+        "url": "http://amethyst.ffxiv.io/",
+        "parse": "MiniParse",
+        "id": "8958b94a-3186-41ee-b5c5-64ae5b537aa2",
+        "key": "amethyst"
+      },
+      {
+        "type": "overlay",
+        "name": "HORIZOVERLAY",
+        "dev": "bsides/Github",
+        "mean": "가로 UI, 간단한 커스터마이징",
+        "info_link": "https://github.com/bsides/horizoverlay",
+        "url": "https://bsides.github.io/horizoverlay/",
+        "parse": "MiniParse",
+        "id": "63bcaf1b-e8a9-4499-a2e7-40c3e2f81119",
+        "key": "horizoverlay"
+      },
+      {
+        "type": "overlay",
+        "name": "ikegami",
+        "dev": "히비야@초코보",
+        "mean": "가로 UI, 간단한 커스터마이징",
+        "info_link": "http://www.inven.co.kr/board/ff14/4953/2325",
+        "url": "http://kagerou.hibiya.moe/ikegami-test/",
+        "parse": "LogParse",
+        "id": "a6648c43-7dec-4b8b-b877-2bc211d08bf7",
+        "key": "ikegami"
+      },
+      {
+        "type": "overlay",
+        "name": "Ember Overlay",
+        "dev": "GoldenChrysus/Github",
+        "mean": "게임 친화적 디자인, 개인 데이터 분석, 커스텀 CSS, 탭",
+        "info_link": "https://github.com/GoldenChrysus/ffxiv-ember-overlay",
+        "url": "https://goldenchrysus.github.io/ffxiv/ember-overlay/",
+        "parse": "MiniParse",
+        "id": "009764c7-5959-407a-bab0-56053cac8e92",
+        "key": "ember"
+      }
+    ],
+    "전투 데이터": [
+      {
+        "type": "overlay_op",
+        "name": "Aggro List",
+        "dev": "ngld/Github",
+        "mean": "어그로 리스트 관련 데이터 표시, OverlayPlugin 전용",
+        "info_link": "",
+        "url": "/Plugins/OverlayPlugin/resources/enmity/aggrolist.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "aggrolist"
+      },
+      {
+        "type": "overlay_op",
+        "name": "Skill Display",
+        "dev": "Rawrington/Github",
+        "mean": "시전한 딜 사이클을 아이콘으로 표시, OverlayPlugin 전용",
+        "info_link": "",
+        "url": "https://rawrington.github.io/SkillDisplay/",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "SkillDisplay"
+      }
+    ],
+    "기타": [
+      {
+        "type": "overlay",
+        "name": "HAERUTIME",
+        "dev": "해루@모그리",
+        "mean": "디지털 현실 시계, 더블클릭으로 크기 조절",
+        "info_link": "http://www.inven.co.kr/board/ff14/4953/1166",
+        "url": "https://haeruhaeru.github.io/HaeruTime/",
+        "parse": "MiniParse",
+        "id": "096070a0-f651-4f44-856b-6d70cb3e7ad0",
+        "key": "HaeruTime"
+      },
+      {
+        "type": "overlay",
+        "name": "teruteru",
+        "dev": "히비야@초코보",
+        "mean": "일기예보, 게임 내 지역의 날씨 정보 제공",
+        "info_link": "http://www.inven.co.kr/board/ff14/4953/2662",
+        "url": "http://unsecure.idyllshi.re/teruteru/",
+        "parse": "LogParse",
+        "id": "236ad43c-3fdc-447d-8ee8-3496daab46e6",
+        "key": "teruteru"
+      }
+    ],
+    "Cactbot 전용 UI": [
+      {
+        "type": "overlay_op",
+        "name": "[Cactbot] Test",
+        "dev": "quisquous/Github",
+        "mean": "Cactbot이 정상적으로 연결됐는지 확인하는 용도",
+        "info_link": "https://github.com/quisquous/cactbot#test-module",
+        "url": "/ui/test/test.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "ui/test"
+      },
+      {
+        "type": "overlay_op",
+        "name": "[Cactbot] Raidboss",
+        "dev": "quisquous/Github",
+        "mean": "전투 시 타임라인과 텍스트 및 오디오 알림을 제공",
+        "info_link": "https://github.com/quisquous/cactbot#raidboss-module",
+        "url": "/ui/raidboss/raidboss.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "ui/raidboss"
+      },
+      {
+        "type": "overlay_op",
+        "name": "[Cactbot] Oopsyraidsy",
+        "dev": "quisquous/Github",
+        "mean": "전투 시 실수 추적 및 사망 보고를 제공",
+        "info_link": "https://github.com/quisquous/cactbot#oopsyraidsy-module",
+        "url": "/ui/oopsyraidsy/oopsyraidsy.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "ui/oopsyraidsy"
+      },
+      {
+        "type": "overlay_op",
+        "name": "[Cactbot] Jobs",
+        "dev": "quisquous/Github",
+        "mean": "HP/MP와 버프 아이콘 및 타이머 막대를 제공",
+        "info_link": "https://github.com/quisquous/cactbot#jobs-module",
+        "url": "/ui/jobs/jobs.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "ui/jobs"
+      },
+      {
+        "type": "overlay_op",
+        "name": "[Cactbot] Radar",
+        "dev": "quisquous/Github",
+        "mean": "필드 근처 마물의 위치와 거리, 풀링한 유저 표시",
+        "info_link": "https://github.com/quisquous/cactbot#eureka-module",
+        "url": "/ui/radar/radar.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "ui/radar"
+      },
+      {
+        "type": "overlay_op",
+        "name": "[Cactbot] Eureka",
+        "dev": "quisquous/Github",
+        "mean": "에우레카 관련 데이터 추적기",
+        "info_link": "https://github.com/quisquous/cactbot#radar-module",
+        "url": "/ui/eureka/eureka.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "ui/eureka"
+      },
+      {
+        "type": "overlay_op",
+        "name": "[Cactbot] Fisher",
+        "dev": "quisquous/Github",
+        "mean": "특정 물고기를 낚을 때 얻을 수 있는 것을 추적",
+        "info_link": "https://github.com/quisquous/cactbot#fisher-module",
+        "url": "/ui/fisher/fisher.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "ui/fisher"
+      },
+      {
+        "type": "overlay_op",
+        "name": "[Cactbot] PullCounter",
+        "dev": "quisquous/Github",
+        "mean": "화면 당김 값을 측정, 스트리머 권장",
+        "info_link": "https://github.com/quisquous/cactbot#pull-counter-module",
+        "url": "/ui/pullcounter/pullcounter.html",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "ui/pullcounter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "github": {
+    "프로그램": [
+      {
+        "type": "exe",
+        "name": "Advanced Combat Tracker",
+        "folder": "Advanced Combat Tracker",
+        "repo_name": "AdvancedCombatTracker",
+        "github_id": "EQAditu",
+        "repo_num": 1
+      },
+      {
+        "type": "exe",
+        "name": "HAERUBOT",
+        "folder": "HAERUBOT",
+        "repo_name": "HAERUBOT",
+        "github_id": "HAERUHAERU",
+        "repo_num": 0
+      },
+      {
+        "type": "exe",
+        "name": "HAERUBOT Updater",
+        "folder": "HAERUBOT",
+        "repo_name": "HAERUBOT",
+        "github_id": "HAERUHAERU",
+        "repo_num": 8
+      }
+    ],
+    "데이터 처리": [
+      {
+        "type": "plugin",
+        "name": "FFXIV Parsing Plugin (한국)",
+        "dev": "Ravahn/Github, 레니",
+        "mean": "게임 데이터 집계 및 분석",
+        "info_link": "https://github.com/ravahn/FFXIV_ACT_Plugin",
+        "folder": "FFXIV_ACT_Plugin_KR",
+        "file": "FFXIV_ACT_Plugin.dll",
+        "repo_name": "FFXIV_ACT_Plugin",
+        "github_id": "ravahn",
+        "repo_num": 0
+      },
+      {
+        "type": "plugin",
+        "name": "FFXIV Parsing Plugin (글로벌)",
+        "dev": "Ravahn/Github",
+        "mean": "게임 데이터 집계 및 분석",
+        "info_link": "https://github.com/ravahn/FFXIV_ACT_Plugin",
+        "folder": "FFXIV_ACT_Plugin_Global",
+        "file": "FFXIV_ACT_Plugin.dll",
+        "repo_name": "FFXIV_ACT_Plugin",
+        "github_id": "ravahn",
+        "repo_num": 0
+      }
+    ],
+    "오버레이 관리": [
+      {
+        "type": "plugin",
+        "name": "OverlayPlugin",
+        "dev": "ngld/GitHub",
+        "mean": "ACT 데이터를 웹으로 공유 및 오버레이 출력",
+        "info_link": "https://github.com/ngld/OverlayPlugin",
+        "folder": "OverlayPlugin",
+        "file": "OverlayPlugin.dll",
+        "repo_name": "OverlayPlugin",
+        "github_id": "ngld",
+        "repo_num": 0
+      }
+    ],
+    "Cactbot 모음": [
+      {
+        "type": "plugin",
+        "name": "Cactbot",
+        "dev": "quisquous/Github",
+        "mean": "전투 및 생활 컨텐츠 도구 모음",
+        "req": "Direct X 11",
+        "info_link": "https://github.com/quisquous/cactbot",
+        "folder": "cactbot",
+        "file": "CactbotOverlay.dll",
+        "repo_name": "cactbot",
+        "github_id": "quisquous",
+        "repo_num": 0
+      },
+      {
+        "type": "plugin_data",
+        "name": "Cactbot 한국어 번역 데이터",
+        "dev": "Jaehyuk-Lee/Github",
+        "mean": "Cactbot의 한국어 번역 데이터를 사전 다운로드",
+        "req": "Direct X 11",
+        "info_link": "https://github.com/Jaehyuk-Lee/cactbot",
+        "folder": "cactbot",
+        "file": "CactbotOverlay.dll",
+        "repo_name": "cactbot",
+        "github_id": "Jaehyuk-Lee",
+        "repo_num": 0
+      }
+    ],
+    "Hojoring 모음": [
+      {
+        "type": "plugin",
+        "name": "Special Spell Timer (한국)",
+        "dev": "레니",
+        "mean": "스페스페, 로그 트리거 및 타임라인 지원",
+        "req": "Windows 10",
+        "info_link": "https://github.com/cosmolen/ACT.Hojoring_KR/releases",
+        "folder": "Hojoring_KR",
+        "file": "ACT.SpecialSpellTimer.dll",
+        "repo_name": "ACT.Hojoring_KR",
+        "github_id": "cosmolen",
+        "repo_num": 0
+      },
+      {
+        "type": "sub_plugin",
+        "name": "TTS Yukkuri (한국)",
+        "dev": "레니",
+        "mean": "TTS 엔진을 다양하게 변환, 디스코드봇 지원",
+        "req": "Windows 10",
+        "folder": "Hojoring_KR",
+        "file": "ACT.TTSYukkuri.dll",
+        "info_link": "https://github.com/anoyetta/ACT.Hojoring/wiki/Yukkuri"
+      },
+      {
+        "type": "sub_plugin",
+        "name": "Ultra Scouter (한국)",
+        "dev": "레니",
+        "mean": "대상의 HP와 거리 데이터를 표시",
+        "req": "Windows 10",
+        "folder": "Hojoring_KR",
+        "file": "ACT.UltraScouter.dll",
+        "info_link": "https://github.com/anoyetta/ACT.Hojoring/wiki/UltraScouter"
+      },
+      {
+        "type": "plugin",
+        "name": "Special Spell Timer (글로벌)",
+        "dev": "anoyetta/Github",
+        "mean": "[Win10] 스페스페, 로그 트리거 및 타임라인 지원",
+        "req": "Windows 10",
+        "info_link": "https://github.com/anoyetta/ACT.Hojoring",
+        "folder": "Hojoring_Global",
+        "file": "ACT.SpecialSpellTimer.dll",
+        "repo_name": "ACT.Hojoring",
+        "github_id": "anoyetta",
+        "repo_num": 0
+      },
+      {
+        "type": "sub_plugin",
+        "name": "TTS Yukkuri (글로벌)",
+        "dev": "anoyetta/Github",
+        "mean": "TTS 엔진을 다양하게 변환, 디스코드봇 지원",
+        "req": "Windows 10",
+        "folder": "Hojoring_Global",
+        "file": "ACT.TTSYukkuri.dll",
+        "info_link": "https://github.com/anoyetta/ACT.Hojoring/wiki/Yukkuri"
+      },
+      {
+        "type": "sub_plugin",
+        "name": "Ultra Scouter (글로벌)",
+        "dev": "anoyetta/Github",
+        "mean": "대상의 HP와 거리 데이터를 표시",
+        "req": "Windows 10",
+        "folder": "Hojoring_Global",
+        "file": "ACT.UltraScouter.dll",
+        "info_link": "https://github.com/anoyetta/ACT.Hojoring/wiki/UltraScouter"
+      }
+    ],
+    "타임라인": [
+      {
+        "type": "plugin",
+        "name": "BingCoilTimeline",
+        "dev": "레니, 날로쿤/Inven",
+        "mean": "한국어 UI, 다양한 출력 설정, 팝업 모드",
+        "req": "Windows 10",
+        "info_link": "https://github.com/cosmolen/act_timeline",
+        "folder": "BingCoilTimeline_2",
+        "file": "BindingCoil.ACTTimeline.dll",
+        "repo_name": "act_timeline",
+        "github_id": "cosmolen",
+        "repo_num": 0
+      },
+      {
+        "type": "plugin",
+        "name": "FZ.Timeline",
+        "dev": "레니",
+        "mean": "커스터마이징이 가능한 타임라인",
+        "info_link": "https://github.com/cosmolen/ACT.Timeline",
+        "folder": "FZ.Timeline",
+        "file": "FZ.Timeline.dll",
+        "repo_name": "ACT.Timeline",
+        "github_id": "cosmolen",
+        "repo_num": 0
+      }
+    ],
+    "기타": [
+      {
+        "type": "plugin",
+        "name": "Triggernometry",
+        "dev": "paissaheavyindustries/Github",
+        "mean": "다양한 액션 및 구성 옵션으로 ACT 트리거 시스템 확장",
+        "info_link": "https://github.com/paissaheavyindustries/Triggernometry",
+        "folder": "Triggernometry",
+        "file": "Triggernometry.dll",
+        "repo_name": "Triggernometry",
+        "github_id": "paissaheavyindustries",
+        "repo_num": 0
+      },
+      {
+        "type": "plugin",
+        "name": "Jail Plugin",
+        "dev": "Tarutella/Github, Nenabe Nyan@Titan",
+        "mean": "절 알테마 웨폰 파괴작전 돌감옥 순서를 음성 알림으로 제공",
+        "info_link": "https://gall.dcinside.com/board/view/?id=ff14&no=826759",
+        "folder": "Jail_Plugin",
+        "file": "Jail_Plugin.dll",
+        "repo_name": "HAERUBOT",
+        "github_id": "HAERUHAERU",
+        "repo_num": 7
+      }
+    ]
+  }
+}
