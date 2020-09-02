@@ -32,15 +32,6 @@
         "author": "illustration by 박레난@모그리"
       },      
       {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_08.jpg",
-        "text": "한국 공식 지원!",
-        "mean": "이제 FFXIV Parsing 플러그인은\r\n공식적으로 한국 서버를 지원합니다.\r\n\r\n레니 님과 원작자 ravahn 님의\r\n값진 협업을 통해 한국어를 포함한\r\n최신 플러그인을 배포합니다.\r\n\r\n앞으로 시차로 인해 업데이트가\r\n다소 지연될 수 있습니다.\r\n\r\n협업을 진행해 주신\r\n레니 님께 감사드립니다!",
-        "color": "#ffffff",
-        "link_text": "",
-        "link": "",
-        "author": ""
-      },
-      {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_13.png",
         "text": "깔끔하게 정리하기",
         "mean": "데이터 연동을 한 기존 ACT 유저들은\r\nOldPlugins 폴더를 삭제해 주세요.",
