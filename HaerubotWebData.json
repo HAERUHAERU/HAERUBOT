@@ -8,7 +8,7 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[Fancy Detail Amethyst Edition] 오버레이 사용자께서는 다른 오버레이를 연결해 주시기 바랍니다.",
+      "text": "[현재 정상화 수정중] 12월 16일 이후 Cactbot 업데이트를 잠시 미뤄주시기 바랍니다.",
       "color": "#0d3260",
       "link": "https://ffxivhaeru.blog.me/221171270022"
     },
@@ -126,7 +126,7 @@
       },
       {
         "type": "overlay",
-        "name": "Fancy Detail Amethyst Edition",
+        "name": "[연결/금지] Fancy Detail Amethyst Edition",
         "dev": "라그린네@모그리",
         "mean": "다이나믹한 애니메이션, 선명한 가독성, 듀얼 테이블",
         "info_link": "https://github.com/laiglinne-ff/FancyDetail",
