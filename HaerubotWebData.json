@@ -93,9 +93,9 @@
       },
       {
         "type": "overlay_op",
-        "name": "HAERUSKIN",
+        "name": "[OverlayPlugin 전용] HAERUSKIN",
         "dev": "해루@모그리",
-        "mean": "빠른 설정 및 간편한 프리셋, OverlayPlugin 전용",
+        "mean": "빠른 설정 및 간편한 프리셋",
         "info_link": "https://ffxivhaeru.blog.me/221725096160",
         "url": "https://haeruhaeru.github.io/HAERUSKIN2/",
         "parse": "MiniParse",
@@ -167,6 +167,17 @@
         "parse": "MiniParse",
         "id": "009764c7-5959-407a-bab0-56053cac8e92",
         "key": "ember"
+      },
+      {
+        "type": "overlay_op",
+        "name": "[OverlayPlugin 전용] 절테마 돌감옥 오버레이",
+        "dev": "초크@초코보",
+        "mean": "절 알테마 웨폰 파괴작전 돌감옥 순서를 오버레이로 제공",
+        "url": "https://chalkpe.github.io/ffxiv-titan-jail",
+        "info_link": "https://github.com/ChalkPE/ffxiv-titan-jail#README"
+        "parse": "MiniParse",
+        "id": "",
+        "key": "titan-jail"
       }
     ],    
     "전투 데이터":[        
