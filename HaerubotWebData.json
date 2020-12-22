@@ -8,9 +8,9 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[20/12/16] Cactbot 업데이트 반영을 위한 긴급패치! 해루봇을 ver.1.3.0.23으로 업데이트를 하고, Cactbot을 업데이트 또는 재설치하세요.",
+      "text": "[20/12/22] OverlayPlugin 대응을 위한 ver.1.3.0.25 업데이트 (더욱 편리해진 NEW 절테마 돌감옥 오버레이를 공개합니다!)",
       "color": "#980000",
-      "link": "https://ffxivhaeru.blog.me/222175251432"
+      "link": "https://ffxivhaeru.blog.me/222182321501"
     },
     "img": [
       {
@@ -126,17 +126,6 @@
       },
       {
         "type": "overlay",
-        "name": "[연결금지] Fancy Detail Amethyst Edition",
-        "dev": "라그린네@모그리",
-        "mean": "배포자께서 게시를 중단하였습니다. 연결하지 마세요.",
-        "info_link": "https://github.com/laiglinne-ff/FancyDetail",
-        "url": "http://amethyst.ffxiv.io/",
-        "parse": "MiniParse",
-        "id": "8958b94a-3186-41ee-b5c5-64ae5b537aa2",
-        "key": "amethyst"
-      },
-      {
-        "type": "overlay",
         "name": "HORIZOVERLAY",
         "dev": "bsides/Github",
         "mean": "가로 UI, 간단한 커스터마이징",
@@ -167,6 +156,17 @@
         "parse": "MiniParse",
         "id": "009764c7-5959-407a-bab0-56053cac8e92",
         "key": "ember"
+      },        
+      {
+        "type": "overlay",
+        "name": "[연결금지] Fancy Detail Amethyst Edition",
+        "dev": "라그린네@모그리",
+        "mean": "배포자께서 게시를 중단하였습니다. 연결하지 마세요.",
+        "info_link": "https://github.com/laiglinne-ff/FancyDetail",
+        "url": "http://amethyst.ffxiv.io/",
+        "parse": "MiniParse",
+        "id": "8958b94a-3186-41ee-b5c5-64ae5b537aa2",
+        "key": "amethyst"
       }
     ],    
     "전투 데이터 (OverlayPlugin 전용)":[        
