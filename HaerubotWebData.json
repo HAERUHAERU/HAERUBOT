@@ -198,7 +198,7 @@
         "dev": "초크@초코보",
         "mean": "절 알테마 웨폰 파괴작전 돌감옥 순서를 오버레이로 제공",
         "url": "https://chalkpe.github.io/ffxiv-titan-jail/",
-        "info_link": "https://github.com/ChalkPE/ffxiv-titan-jail#README"
+        "info_link": "https://github.com/ChalkPE/ffxiv-titan-jail#README",
         "parse": "MiniParse",
         "id": "",
         "key": "titan"
