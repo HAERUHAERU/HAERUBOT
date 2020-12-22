@@ -93,9 +93,9 @@
       },
       {
         "type": "overlay_op",
-        "name": "[OverlayPlugin 전용] HAERUSKIN",
+        "name": "HAERUSKIN",
         "dev": "해루@모그리",
-        "mean": "빠른 설정 및 간편한 프리셋",
+        "mean": "빠른 설정 및 간편한 프리셋, OverlayPlugin 전용",
         "info_link": "https://ffxivhaeru.blog.me/221725096160",
         "url": "https://haeruhaeru.github.io/HAERUSKIN2/",
         "parse": "MiniParse",
@@ -169,12 +169,12 @@
         "key": "ember"
       }
     ],    
-    "전투 데이터":[        
+    "전투 데이터 (OverlayPlugin 전용)":[        
       {
         "type": "overlay_op",
         "name": "Aggro List",
         "dev": "ngld/Github",
-        "mean": "어그로 리스트 관련 데이터 표시, OverlayPlugin 전용",
+        "mean": "어그로 리스트 관련 데이터 표시",
         "info_link": "",
         "url": "/Plugins/OverlayPlugin/resources/enmity/aggrolist.html",
         "parse": "MiniParse",
@@ -185,12 +185,23 @@
         "type": "overlay_op",
         "name": "Skill Display",
         "dev": "Rawrington/Github",
-        "mean": "시전한 딜 사이클을 아이콘으로 표시, OverlayPlugin 전용",
+        "mean": "시전한 딜 사이클을 아이콘으로 표시",
         "info_link": "",
         "url": "https://rawrington.github.io/SkillDisplay/",
         "parse": "MiniParse",
         "id": "",
         "key": "SkillDisplay"
+      },      
+      {
+        "type": "overlay_op",
+        "name": "Tital Jail",
+        "dev": "초크@초코보",
+        "mean": "절 알테마 웨폰 파괴작전 돌감옥 순서를 오버레이로 제공",
+        "url": "https://chalkpe.github.io/ffxiv-titan-jail/",
+        "info_link": "https://github.com/ChalkPE/ffxiv-titan-jail#README"
+        "parse": "MiniParse",
+        "id": "",
+        "key": "titan"
       }
     ],
     "기타": [
@@ -217,7 +228,7 @@
         "key": "teruteru"
       }
     ],
-    "Cactbot 전용 UI": [
+    "Cactbot 오버레이 (OverlayPlugin 전용)": [
       {
         "type": "overlay_op",
         "name": "[Cactbot] Test",
