@@ -103,10 +103,10 @@
         "key": "aggrolist"
       },
       {
-        "type": "overlay_op",
+        "type": "overlay",
         "name": "Skill Display",
         "dev": "Rawrington/Github",
-        "mean": "시전한 딜 사이클을 아이콘으로 표시, OverlayPlugin 전용",
+        "mean": "시전한 딜 사이클을 아이콘으로 표시",
         "info_link": "",
         "url": "https://rawrington.github.io/SkillDisplay/",
         "parse": "MiniParse",
