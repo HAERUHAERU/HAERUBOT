@@ -12,7 +12,16 @@
       "color": "#0d3260",
       "link": ""
     },
-    "img": [
+    "img": [      
+      {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_16.jpg",
+        "text": "찾았다! 공략맛집",
+        "mean": "서두르지 않아도 괜찮아\r\n5.4도 오미루와 함께 즐겨요!",
+        "color": "#ffffff",
+        "link_text": "자세히 보기 >",
+        "link": "https://www.youtube.com/channel/UC_PtkLruOEuD11VgPypNBfw/featured",
+        "author": ""
+      },
       {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_15.jpg",
         "text": "업뎃공지제발필독",
@@ -24,22 +33,13 @@
       },   
       {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_04.jpg",
-        "text": "PC방 A to Z",
-        "mean": "내 집 같은 편안함\r\n백업&&복원 완벽 가이드",
+        "text": "전체백업 아직도?",
+        "mean": "PC방에서도 내 집 같은 편안함\r\n백업&&복원 완벽 가이드",
         "color": "#ffffff",
         "link_text": "자세히 보기 >",
         "link": "https://ffxivhaeru.blog.me/221725001847",
         "author": "illustration by 박레난@모그리"
       },      
-      {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_13.png",
-        "text": "깔끔하게 정리하기",
-        "mean": "데이터 연동을 한 기존 ACT 유저들은\r\nOldPlugins 폴더를 삭제해 주세요.",
-        "color": "#212121",
-        "link_text": "자세히 보기 >",
-        "link": "https://ffxivhaeru.blog.me/221771846787",
-        "author": ""
-      },
       {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_10.png",
         "text": "타임라인 이름 변경",
@@ -57,15 +57,6 @@
         "link_text": "튜토리얼 보기 >",
         "link": "https://ffxivhaeru.blog.me/221668461348",
         "author": "illustration by 요정셀레네@초코보"
-      },
-      {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_03.jpg",
-        "text": "찾았다! 공략맛집",
-        "mean": "4인 던전과 토벌전은 물론\r\n레이드와 절 난이도까지",
-        "color": "#ffffff",
-        "link_text": "자세히 보기 >",
-        "link": "https://www.youtube.com/channel/UC_PtkLruOEuD11VgPypNBfw/videos",
-        "author": ""
       },
       {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_06.jpg",
