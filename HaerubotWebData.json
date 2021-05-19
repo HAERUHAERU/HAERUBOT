@@ -8,9 +8,9 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[5/19] 5.4 패치 임시 업데이트를 반드시 진행하세요",
+      "text": "[5/20] cactbot 한국어 번역 데이터 다운로드 or 업데이트 or 재다운로드를 진행하세요. (패치노트 확인 권장)",
       "color": "#980000",
-      "link": ""
+      "link": "https://blog.naver.com/ffxivhaeru/222282891489"
     },
     "img": [      
       {
