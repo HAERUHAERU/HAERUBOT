@@ -5,11 +5,11 @@
     },
     "title": {
       "text": "HAERUBOT : FFXIV-KR ACT HELPER",
-      "color": "#980000"
+      "color": "#000a36"
     },
     "notice": {
       "text": "[6/8] Github 서버 문제로 인한 일시적인 서비스 오작동 안내 (복구완료)",
-      "color": "#0d3260",
+      "color": "#980000",
       "link": "https://blog.naver.com/ffxivhaeru/222390131863"
     },
     "img": [      
