@@ -187,7 +187,7 @@
         "type": "overlay_op",
         "name": "kagami",
         "dev": "ramram1048/Github",
-        "mean": "딜 사이클 및 캐스팅 등을 시각적으로 표시",
+        "mean": "딜 사이클 및 캐스팅을 역동적으로 시각화",
         "info_link": "https://github.com/ramram1048/kagami",
         "url": "https://ramram1048.github.io/kagami/",
         "parse": "MiniParse",
