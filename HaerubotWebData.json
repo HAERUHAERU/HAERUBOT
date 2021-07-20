@@ -197,7 +197,7 @@
       {
         "type": "overlay_op",
         "name": "ZeffUI",
-        "dev": "ramram1048/Github",
+        "dev": "Zeffuro/Github",
         "mean": "HP/MP, MP티커, 버프/도트/풀링 타이머 등을 표시",
         "info_link": "https://github.com/Zeffuro/ZeffUI",
         "url": "https://zeffuro.github.io/ZeffUI/",
