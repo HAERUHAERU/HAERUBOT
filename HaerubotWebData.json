@@ -138,17 +138,17 @@
         "parse": "MiniParse",
         "id": "009764c7-5959-407a-bab0-56053cac8e92",
         "key": "ember"
-      },        
+      },       
       {
-        "type": "overlay",
-        "name": "[연결금지] Fancy Detail Amethyst Edition",
-        "dev": "라그린네@모그리",
-        "mean": "배포자께서 게시를 중단하였습니다. 연결하지 마세요.",
-        "info_link": "https://github.com/laiglinne-ff/FancyDetail",
-        "url": "http://amethyst.ffxiv.io/",
+        "type": "overlay_op",
+        "name": "klondike",
+        "dev": "kalilistic",
+        "mean": "모던한 스타일, 적은 공간 차지의 DPS 데이터 테이블 ",
+        "info_link": "https://github.com/kalilistic/klondike",
+        "url": "https://kalilistic.github.io/klondike/",
         "parse": "MiniParse",
-        "id": "8958b94a-3186-41ee-b5c5-64ae5b537aa2",
-        "key": "amethyst"
+        "id": "",
+        "key": "klondike"
       }
     ],    
     "전투 데이터 (OverlayPlugin 전용)":[        
@@ -184,6 +184,17 @@
         "parse": "MiniParse",
         "id": "",
         "key": "kagami"
+      },  
+      {
+        "type": "overlay_op",
+        "name": "ZeffUI",
+        "dev": "ramram1048/Github",
+        "mean": "HP/MP, MP티커, 버프/도트/풀링 타이머 등을 표시",
+        "info_link": "https://github.com/Zeffuro/ZeffUI",
+        "url": "https://zeffuro.github.io/ZeffUI/",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "ZeffUI"
       },  
       {
         "type": "overlay_op",
