@@ -12,7 +12,16 @@
       "color": "#980000",
       "link": ""
     },
-    "img": [      
+    "img": [     
+       {
+        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_18.jpg",
+        "text": "오버레이 추천!",
+        "mean": "OverlayPlugin 유저신가요?\r\n새로운 오버레이를 사용해 보세요.",
+        "color": "#ffffff",
+        "link_text": "",
+        "link": "",
+        "author": ""
+      },   
       {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_15.jpg",
         "text": "업뎃공지제발필독",
