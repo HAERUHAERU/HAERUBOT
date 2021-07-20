@@ -167,13 +167,24 @@
         "type": "overlay_op",
         "name": "Skill Display",
         "dev": "Rawrington/Github",
-        "mean": "시전한 딜 사이클을 아이콘으로 표시",
+        "mean": "딜 사이클을 스킬 아이콘으로 표시",
         "info_link": "",
         "url": "https://rawrington.github.io/SkillDisplay/",
         "parse": "MiniParse",
         "id": "",
         "key": "SkillDisplay"
-      },      
+      },    
+      {
+        "type": "overlay_op",
+        "name": "[추천] kagami",
+        "dev": "ramram1048/Github",
+        "mean": "딜 사이클 및 캐스팅 등을 시각적으로 표시",
+        "info_link": "",
+        "url": "https://github.com/ramram1048/kagami/blob/master/installation.md",
+        "parse": "MiniParse",
+        "id": "",
+        "key": "kagami"
+      },  
       {
         "type": "overlay_op",
         "name": "Titan Jail",
