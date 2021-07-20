@@ -152,7 +152,7 @@
         "type": "overlay_op",
         "name": "klondike",
         "dev": "kalilistic",
-        "mean": "모던한 스타일, 적은 공간 차지의 DPS 데이터 테이블 ",
+        "mean": "모던한 스타일, 공간 차지가 적은 데이터 ",
         "info_link": "https://github.com/kalilistic/klondike",
         "url": "https://kalilistic.github.io/klondike/",
         "parse": "MiniParse",
