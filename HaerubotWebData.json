@@ -8,9 +8,9 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[7/22] 한섭 5.45 : 런처 설정에서 DX11로 변경하고 실행하시기 바랍니다. (DX9 파티원 미집계 오류 있음)",
+      "text": "DX9는 현재 Parse Filter를 None으로 변경해야만 파티원이 집계됩니다. 양해 바랍니다. (필드는 외부 인원도 집계됨)",
       "color": "#980000",
-      "link": ""
+      "link": "https://blog.naver.com/ffxivhaeru/221171293285"
     },
     "img": [     
        {
