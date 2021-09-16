@@ -8,7 +8,7 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[9/16] 5.5 임시 업데이트 (특이사항 있으면 제보 바랍니다)",
+      "text": "[9/16] 5.5 임시 업데이트 (DX9는 Plugins > FFXIV Settings > Parse Filter를 None으로 변경하세요)",
       "color": "#980000",
       "link": ""
     },
