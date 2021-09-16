@@ -8,7 +8,7 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[9/16] 5.5 임시 업데이트 (DX9는 Plugins > FFXIV Settings > Parse Filter를 None으로 변경하세요)",
+      "text": "[9/16] 5.5 업데이트 (DX9유저는 Plugins > FFXIV Settings > Parse Filter:None 변경필수 / Cactbot추가패치예정)",
       "color": "#980000",
       "link": ""
     },
