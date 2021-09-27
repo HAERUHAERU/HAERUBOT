@@ -8,7 +8,7 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[9/16] 5.5 업데이트 (DX9유저는 Plugins > FFXIV Settings > Parse Filter:None 변경필수)",
+      "text": "파티원이 안 보이는 유저는 파판을 DX11로 실행하시거나, ACT > Plugins > FFXIV Settings > Parse Filter:None으로 변경합니다.",
       "color": "#980000",
       "link": "https://m.blog.naver.com/ffxivhaeru/221171293285"
     },
