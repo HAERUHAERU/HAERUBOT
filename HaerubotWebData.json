@@ -8,9 +8,9 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[12/1] 5.57 업데이트 (파티원이 안 보이면 게임을 DX11로 실행하거나, ACT > Plugins > FFXIV Settings > Parse Filter:None로 변경)",
+      "text": "[12/3][긴급] 일시적인 문제로 서버 데이터 동기화가 되지 않습니다. 여기를 클릭해서 복원설치를 진행해 주세요!",
       "color": "#980000",
-      "link": "https://m.blog.naver.com/ffxivhaeru/221171293285"
+      "link": "https://blog.naver.com/ffxivhaeru/222586193682"
     },
     "img": [     
        {
