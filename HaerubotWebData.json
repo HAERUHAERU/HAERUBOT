@@ -8,7 +8,7 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[12/4 AM2:00] (예상대로) 서버 동기화 기능이 정상화되었습니다. 플러그인 업데이트를 진행하세요!",
+      "text": "[12/4] 1.3.0.35 패치노트 / 파티원이 안보여요 : 파판 DX11로 실행 또는 ACT > Plugins > FFXIV Settings > Parse Filter : None 변경",
       "color": "#980000",
       "link": "https://blog.naver.com/ffxivhaeru/222586193682"
     },
