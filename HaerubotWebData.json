@@ -28,7 +28,7 @@
         "mean": "업데이트 관리자 프로그램의 ★UPDATE★\r\n무조건 진행하셔야 합니다.",
         "color": "#ffffff",
         "link_text": "자세히 보기 >",
-        "link": "https://ffxivhaeru.blog.me/222025221348",
+        "link": "https://blog.naver.com/ffxivhaeru/222025221348",
         "author": ""
       },   
       {
@@ -37,7 +37,7 @@
         "mean": "PC방에서도 내 집 같은 편안함\r\n백업&&복원 완벽 가이드",
         "color": "#ffffff",
         "link_text": "자세히 보기 >",
-        "link": "https://ffxivhaeru.blog.me/221725001847",
+        "link": "https://blog.naver.com/ffxivhaeru/221725001847",
         "author": "illustration by 박레난@모그리"
       },      
       {
@@ -46,7 +46,7 @@
         "mean": "5.01부터 임무 이름으로 인식합니다.\r\n타임라인 파일 이름을 변경해 주세요.",
         "color": "#ffffff",
         "link_text": "자세히 보기 >",
-        "link": "https://ffxivhaeru.blog.me/221751455241",
+        "link": "https://blog.naver.com/ffxivhaeru/221751455241",
         "author": ""
       },
       {
@@ -55,7 +55,7 @@
         "mean": "칠흑의 반역자는\r\nHAERUBOT과 함께",
         "color": "#ffffff",
         "link_text": "튜토리얼 보기 >",
-        "link": "https://ffxivhaeru.blog.me/221668461348",
+        "link": "https://blog.naver.com/ffxivhaeru/221668461348",
         "author": "illustration by 요정셀레네@초코보"
       },
       {
@@ -87,7 +87,7 @@
         "name": "HAERUSKIN",
         "dev": "해루@모그리",
         "mean": "빠른 설정 및 간편한 프리셋, OverlayPlugin 전용",
-        "info_link": "https://ffxivhaeru.blog.me/221725096160",
+        "info_link": "https://blog.naver.com/ffxivhaeru/221725096160",
         "url": "https://haeruhaeru.github.io/HAERUSKIN2/",
         "parse": "MiniParse",
         "id": "",
@@ -98,7 +98,7 @@
         "name": "MopiMopi",
         "dev": "해루@모그리",
         "mean": "강력한 커스터마이징, 모바일 최적화, 듀얼 테이블",
-        "info_link": "https://ffxivhaeru.blog.me/221725095818",
+        "info_link": "https://blog.naver.com/ffxivhaeru/221725095818",
         "url": "https://haeruhaeru.github.io/mopimopi/",
         "parse": "MiniParse",
         "id": "ec853538-f5d3-4c52-b0dc-69e9ee6b57a9",
@@ -336,59 +336,59 @@
     "HAERUBOT": [
       {
         "title": "HAERUBOT(해루봇) 사용법이 궁금해요.",
-        "link": "https://ffxivhaeru.blog.me/221668461348"
+        "link": "https://blog.naver.com/ffxivhaeru/221668461348"
       },
       {
         "title": "가끔 다운로드 속도가 너무 느려요.",
-        "link": "https://ffxivhaeru.blog.me/221724090506"
+        "link": "https://blog.naver.com/ffxivhaeru/221724090506"
       },
       {
         "title": "가끔 서버 데이터와 동기화가 안 돼요.",
-        "link": "https://ffxivhaeru.blog.me/221724121598"
+        "link": "https://blog.naver.com/ffxivhaeru/221724121598"
       },
       {
         "title": "ACT를 설치하고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221724123766"
+        "link": "https://blog.naver.com/ffxivhaeru/221724123766"
       },
       {
         "title": "ACT를 삭제하고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221724124196"
+        "link": "https://blog.naver.com/ffxivhaeru/221724124196"
       },
       {
         "title": "ACT를 초기화하고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221724138554"
+        "link": "https://blog.naver.com/ffxivhaeru/221724138554"
       },
       {
         "title": "ACT를 업데이트하고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221724149745"
+        "link": "https://blog.naver.com/ffxivhaeru/221724149745"
       },
       {
         "title": "PC방 등 다른 컴퓨터에서 기존에 사용하던 ACT를 실행하고 싶어요.\r\n백업 및 복원, 복원 설치 사용법",
-        "link": "https://ffxivhaeru.blog.me/221725001847"
+        "link": "https://blog.naver.com/ffxivhaeru/221725001847"
       },
       {
         "title": "HAERUBOT(해루봇)을 수동으로 업데이트하고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221759001508"
+        "link": "https://blog.naver.com/ffxivhaeru/221759001508"
       },
       {
         "title": "HAERUBOT(해루봇)을 삭제하고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221725003147"
+        "link": "https://blog.naver.com/ffxivhaeru/221725003147"
       },
       {
         "title": "서버 데이터 동기화 시각이 1601-01-01 오전 9:00:00인데 정상인가요?",
-        "link": "https://ffxivhaeru.blog.me/221727148911"
+        "link": "https://blog.naver.com/ffxivhaeru/221727148911"
       },
       {
         "title": "바탕 화면에 있는 해루봇 바로 가기를 통해 ACT를 실행했는데 바탕 화면에 이상한 폴더나 파일이 생겨요.",
-        "link": "https://ffxivhaeru.blog.me/221734940597"
+        "link": "https://blog.naver.com/ffxivhaeru/221734940597"
       },
       {
         "title": "업데이트를 했는데도 업데이트 알림이 떠요.",
-        "link": "https://ffxivhaeru.blog.me/221767093346"
+        "link": "https://blog.naver.com/ffxivhaeru/221767093346"
       },
       {
         "title": "ACT만 켜면 파판이 90002 오류로 꺼져요.",
-        "link": "https://ffxivhaeru.blog.me/221984924382"
+        "link": "https://blog.naver.com/ffxivhaeru/221984924382"
       }    
     ],
     "ACT 일반": [
@@ -398,83 +398,83 @@
       },
       {
         "title": "ACT가 전투 중이라고 인식하는 시간을 변경하고 싶어요.\r\n집계가 '너무 자주 끊겨요' 또는 '전투가 끝나도 이어져요'",
-        "link": "https://ffxivhaeru.blog.me/221171273683"
+        "link": "https://blog.naver.com/ffxivhaeru/221171273683"
       },
       {
         "title": "ACT 알림음의 볼륨을 조절하고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221171290554"
+        "link": "https://blog.naver.com/ffxivhaeru/221171290554"
       },
       {
         "title": "특정 문구에 대한 알림을 받고 싶어요.\r\nACT CustomTriggers (커스텀 트리거) 사용법",
-        "link": "https://ffxivhaeru.blog.me/221171286982"
+        "link": "https://blog.naver.com/ffxivhaeru/221171286982"
       },
       {
         "title": "ACT Main 탭에 출력할 항목을 편집하고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221171286496"
+        "link": "https://blog.naver.com/ffxivhaeru/221171286496"
       },
       {
         "title": "ACT Main 탭 하단에 그래프가 안 떠요.\r\n(No combatants with compatible data to graph...)",
-        "link": "https://ffxivhaeru.blog.me/221171285749"
+        "link": "https://blog.naver.com/ffxivhaeru/221171285749"
       },
       {
         "title": "바탕화면이나 폴더에서 ACT 아이콘이 깨져 보여요.",
-        "link": "https://ffxivhaeru.blog.me/221171291068"
+        "link": "https://blog.naver.com/ffxivhaeru/221171291068"
       }
     ],
     "실행 오류": [
       {
         "title": "업데이트를 확인하지 못했습니다:",
-        "link": "https://ffxivhaeru.blog.me/221759006468"
+        "link": "https://blog.naver.com/ffxivhaeru/221759006468"
       },
       {
         "title": "Github error while checking Cactbot version. Your current version is x.x.x.x.\r\nManually check for newer version now?",
-        "link": "https://ffxivhaeru.blog.me/221759010800"
+        "link": "https://blog.naver.com/ffxivhaeru/221759010800"
       },
       {
         "title": "OverlayPlugin 업데이트 관리자가 다운로드 중단, 다운로드 재개를 반복합니다. 다음으로 넘어가지 않습니다.",
-        "link": "https://ffxivhaeru.blog.me/222071917896"
+        "link": "https://blog.naver.com/ffxivhaeru/222071917896"
       },
       {
         "title": "CEF 패키지를 다운로드하지 못했습니다. OverlayPlugin을 사용할 수 없습니다.",
-        "link": "https://ffxivhaeru.blog.me/221759588964"        
+        "link": "https://blog.naver.com/ffxivhaeru/221759588964"        
       },
       {
         "title": "어느 날 갑자기 전투 로그 집계가 안 돼요.\r\n집계가 꼬이고 극심한 프레임 드랍이 발생해요.",
-        "link": "https://ffxivhaeru.blog.me/221171270902"
+        "link": "https://blog.naver.com/ffxivhaeru/221171270902"
       },
       {
         "title": "정상적으로 설치했는데 전투 로그 집계가 아예 안 돼요.",
-        "link": "https://ffxivhaeru.blog.me/221171270022"
+        "link": "https://blog.naver.com/ffxivhaeru/221171270022"
       },
       {
         "title": "어느 날 갑자기 ACT가 몬스터를 유저로 인식해요.\r\n오버레이에 몬스터들의 전투 정보가 떠요.",
-        "link": "https://ffxivhaeru.blog.me/221725049756"
+        "link": "https://blog.naver.com/ffxivhaeru/221725049756"
       },
       {
         "title": "인덱스가 배열 범위를 벗어났습니다.",
-        "link": "https://ffxivhaeru.blog.me/221171279116"
+        "link": "https://blog.naver.com/ffxivhaeru/221171279116"
       },
       {
         "title": "Error processing Network Data. ACT's error log will contain more debugging information.",
-        "link": "https://ffxivhaeru.blog.me/221171280840"
+        "link": "https://blog.naver.com/ffxivhaeru/221171280840"
       },
       {
         "title": "The currently open log file has not been modified for over a week...",
-        "link": "https://ffxivhaeru.blog.me/221171281378"
+        "link": "https://blog.naver.com/ffxivhaeru/221171281378"
       },
       {
         "title": "FFXIV Plugin Startup Failed. System.ComponentModel.Win32Exception (0x80004005): ReadProcessMemory 또는 WriteProcessMemory의 일부 작업만을 마쳤습니다.",
-        "link": "https://ffxivhaeru.blog.me/221276568656"
+        "link": "https://blog.naver.com/ffxivhaeru/221276568656"
       },
       {
         "title": "개체 참조가 개체의 인스턴스로 설정되지 않았습니다.\r\nACT's error log will contain more debugging information.",
-        "link": "https://ffxivhaeru.blog.me/221176618134"
+        "link": "https://blog.naver.com/ffxivhaeru/221176618134"
       }
     ],
     "플러그인": [
       {
         "title": "ACT가 수집하는 전투 로그의 범위를 변경하고 싶어요.\r\n내 캐릭터는 가만히 있는데 ACT가 전투를 인식해요.",
-        "link": "https://ffxivhaeru.blog.me/221171293285"
+        "link": "https://blog.naver.com/ffxivhaeru/221171293285"
       },
       {
         "title": "스페스페의 사용법을 알고 싶어요.",
@@ -500,19 +500,19 @@
     "오버레이": [
       {
         "title": "ACTWebSocket, OverlayPlugin의 초기 설정법을 알고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221725093894"
+        "link": "https://blog.naver.com/ffxivhaeru/221725093894"
       },
       {
         "title": "대상의 HP를 오버레이로 띄우거나 숨기는 방법을 알고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221171292698"
+        "link": "https://blog.naver.com/ffxivhaeru/221171292698"
       },
       {
         "title": "Alt+Tab, 최소화로 게임이 비활성화일 때는 오버레이를 숨기고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221176499288"
+        "link": "https://blog.naver.com/ffxivhaeru/221176499288"
       },
       {
         "title": "오버레이를 조작하는 단축키를 설정하고 싶어요.",
-        "link": "https://ffxivhaeru.blog.me/221171296528"
+        "link": "https://blog.naver.com/ffxivhaeru/221171296528"
       },
       {
         "title": "어느날 갑자기 오버레이 화면이 깨져 보여요.",
@@ -520,11 +520,11 @@
       },
       {
         "title": "웹소켓 오버레이가 저절로 꺼져요.",
-        "link": "https://ffxivhaeru.blog.me/221176511135"
+        "link": "https://blog.naver.com/ffxivhaeru/221176511135"
       },
       {
         "title": "웹소켓 오버레이의 배경이 까맣게 보여요.",
-        "link": "https://ffxivhaeru.blog.me/221171299650"
+        "link": "https://blog.naver.com/ffxivhaeru/221171299650"
       },
       {
         "title": "웹소켓 오버레이가 전체적으로 투명하고 쨍하게 보여요.",
@@ -544,7 +544,7 @@
       },
       {
         "title": "MopiMopi(모피모피)에서 내 이름이 YOU로 보여요.",
-        "link": "https://ffxivhaeru.blog.me/221325149295"
+        "link": "https://blog.naver.com/ffxivhaeru/221325149295"
       }
     ],
     "로그": [
