@@ -8,9 +8,9 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[1/12] 5.58 업데이트",
-      "color": "#980000",
-      "link": "https://blog.naver.com/ffxivhaeru/222603879670"
+      "text": "파티원이 안보여요 : 파판 DX11로 실행 또는 ACT > Plugins > FFXIV Settings > Parse Filter : None 변경",
+      "color": "#0d3260",
+      "link": ""
     },
     "img": [     
        {
