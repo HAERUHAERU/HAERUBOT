@@ -8,7 +8,7 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[3/17] 1.4.0.0 패치 : cactbot 유저는 오버레이 탭에서 사용하던 cactbot 오버레이를 해제 후 재연결바랍니다. (링크참조)",
+      "text": "[3/17] (닷넷 문제로 인해) 1.3.0.36으로 롤백 : Cactbot 설치 오류는 링크 참조",
       "color": "#980000",
       "link": "https://blog.naver.com/ffxivhaeru/222675592761"
     },
