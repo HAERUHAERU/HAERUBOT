@@ -8,9 +8,9 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "[5/9] 새로운 해루봇 런칭 임박, 이 해루봇은 더 이상 유지보수를 안 합니다. 곧 다시 공지하겠습니다.",
-      "color": "#980000",
-      "link": "https://blog.naver.com/ffxivhaeru/222675592761"
+      "text": "현 해루봇은 신규설치하려면 복원설치가 필수임 → 안내 바로 가기 (메일XXX, 새 버전 런칭 작업으로 답변 어려움)",
+      "color": "#000000",
+      "link": "https://blog.naver.com/ffxivhaeru/222727692665"
     },
     "img": [     
        {
