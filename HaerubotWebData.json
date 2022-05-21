@@ -8,63 +8,18 @@
       "color": "#000a36"
     },
     "notice": {
-      "text": "현 해루봇은 신규설치하려면 복원설치가 필수임 → 안내 바로 가기 (메일XXX, 새 버전 런칭 작업으로 답변 어려움)",
+      "text": "2022년 5월 21일 새로운 Haeurbot을 론칭했습니다. 현 해루봇은 더 이상 지원하지 않습니다.",
       "color": "#000000",
-      "link": "https://blog.naver.com/ffxivhaeru/222727692665"
+      "link": "https://ffxivhaeru.tistory.com/notice"
     },
-    "img": [     
-       {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_18.jpg",
-        "text": "오버레이 추천!",
-        "mean": "OverlayPlugin 유저신가요?\r\n새로운 오버레이를 사용해 보세요.",
-        "color": "#ffffff",
-        "link_text": "",
-        "link": "",
-        "author": ""
-      },   
+    "img": [       
       {
         "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_15.jpg",
-        "text": "업뎃공지제발필독",
-        "mean": "업데이트 관리자 프로그램의 ★UPDATE★\r\n무조건 진행하셔야 합니다.",
+        "text": "신규 해루봇 정식 론칭",
+        "mean": "새로운 해루봇을 출시했습니다.\r\n새롭게 설치하셔야 합니다.",
         "color": "#ffffff",
-        "link_text": "자세히 보기 >",
-        "link": "https://blog.naver.com/ffxivhaeru/222025221348",
-        "author": ""
-      },   
-      {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_04.jpg",
-        "text": "전체백업 아직도?",
-        "mean": "PC방에서도 내 집 같은 편안함\r\n백업&&복원 완벽 가이드",
-        "color": "#ffffff",
-        "link_text": "자세히 보기 >",
-        "link": "https://blog.naver.com/ffxivhaeru/221725001847",
-        "author": "illustration by 박레난@모그리"
-      },      
-      {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_10.png",
-        "text": "타임라인 이름 변경",
-        "mean": "5.01부터 임무 이름으로 인식합니다.\r\n타임라인 파일 이름을 변경해 주세요.",
-        "color": "#ffffff",
-        "link_text": "자세히 보기 >",
-        "link": "https://blog.naver.com/ffxivhaeru/221751455241",
-        "author": ""
-      },
-      {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_01.jpg",
-        "text": "모험의 시작",
-        "mean": "칠흑의 반역자는\r\nHAERUBOT과 함께",
-        "color": "#ffffff",
-        "link_text": "튜토리얼 보기 >",
-        "link": "https://blog.naver.com/ffxivhaeru/221668461348",
-        "author": "illustration by 요정셀레네@초코보"
-      },
-      {
-        "src": "https://raw.githubusercontent.com/HAERUHAERU/HAERUBOT/master/title/title_06.jpg",
-        "text": "THANKS TO",
-        "mean": "HAERUBOT 베타 테스트에서\r\n쉼없이 활약한 숨은 일등 공신들!\r\n\r\n요정셀레네@초코보\r\n박레난@모그리",
-        "color": "#ffffff",
-        "link_text": "",
-        "link": "",
+        "link_text": "가이드 바로 가기 >",
+        "link": "https://ffxivhaeru.tistory.com/notice",
         "author": ""
       }
     ]
